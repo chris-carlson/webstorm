@@ -1,0 +1,81 @@
+<templateSet group="html_angular_material">
+  <template name="matb" value="&lt;button mat-$TYPE$button&gt;$NAME$&lt;/button&gt;" description="button" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="&quot;raised-&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matbl" value="&lt;a mat-$TYPE$button routerLink=&quot;.$ROUTE$&quot;&gt;$NAME$&lt;/a&gt;" description="link button" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="&quot;raised-&quot;" alwaysStopAt="true" />
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matbi" value="&lt;button mat-icon-button&gt;&#10;    &lt;mat-icon&gt;$END$&lt;/mat-icon&gt;&#10;&lt;/button&gt;" description="icon button" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="mati" value="&lt;mat-form-field&gt;&#10;    &lt;input matInput placeholder=&quot;$TEXT$&quot;&gt;&#10;&lt;/mat-form-field&gt;" description="input" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="mats" value="&lt;mat-form-field&gt;&#10;    &lt;mat-select placeholder=&quot;$TEXT$&quot;&gt;&#10;        &lt;mat-option *ngFor=&quot;let $ITEM$ of $COLLECTION$&quot; [value]=&quot;$VALUE$&quot;&gt;$DISPLAY$&lt;/mat-option&gt;&#10;    &lt;/mat-select&gt;&#10;&lt;/mat-form-field&gt;" description="select" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DISPLAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matto" value="&lt;mat-toolbar color=&quot;primary&quot;&gt;$END$&lt;/mat-toolbar&gt;" description="toolbar" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matc" value="&lt;mat-card&gt;&#10;    &lt;mat-card-title&gt;$TITLE$&lt;/mat-card-title&gt;&#10;    &lt;mat-card-content&gt;&#10;        $CONTENT$&#10;    &lt;/mat-card-content&gt;&#10;&lt;/mat-card&gt;" description="card" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matnl" value="&lt;mat-nav-list&gt;&#10;    &lt;a mat-list-item href=&quot;$ROUTE$&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="mattg" value="&lt;mat-tab-group&gt;&#10;    &lt;mat-tab label=&quot;$LABEL$&quot;&gt;$CONTENT$&lt;/mat-tab&gt;&#10;&lt;/mat-tab-group&gt;" description="tab group" toReformat="false" toShortenFQNames="true">
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matd" value="&lt;h2 mat-dialog-title&gt;$TITLE$&lt;/h2&gt;&#10;&lt;mat-dialog-content&gt;&#10;    $END$&#10;&lt;/mat-dialog-content&gt;&#10;&lt;mat-dialog-actions&gt;&#10;    &lt;button mat-raised-button mat-dialog-close&gt;Close&lt;/button&gt;&#10;&lt;/mat-dialog-actions&gt;" description="dialog" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matta" value="&lt;table mat-table [dataSource]=&quot;$SOURCE$&quot;&gt;&#10;    &lt;ng-container matColumnDef=&quot;$COLUMN$&quot;&gt;&#10;        &lt;th mat-header-cell *matHeaderCellDef&gt;$HEADER$&lt;/th&gt;&#10;        &lt;td mat-cell *matCellDef=&quot;let $ITEM$&quot;&gt;{{$DISPLAY$}}&lt;/td&gt;&#10;    &lt;/ng-container&gt;&#10;    &lt;tr mat-header-row *matHeaderRowDef=&quot;$COLUMNS$&quot;&gt;&lt;/tr&gt;&#10;    &lt;tr mat-row *matRowDef=&quot;let row; columns: $COLUMNS$;&quot;&gt;&lt;/tr&gt;&#10;&lt;/table&gt;" description="table" toReformat="false" toShortenFQNames="true">
+    <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLUMN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="HEADER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DISPLAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLUMNS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

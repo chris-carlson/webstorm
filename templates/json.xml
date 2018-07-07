@@ -1,0 +1,9 @@
+<templateSet group="json">
+  <template name=":" value="&quot;$KEY$&quot;: $VALUE$" description="pair declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>
