@@ -31,6 +31,12 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/index.html" timestamp="1537622301464">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/transaction/variable-transaction-form/variable-transaction-form.component.html" timestamp="1486939147793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
@@ -55,6 +61,13 @@
         <mark key="." line="4" column="9" />
         <mark key="^" line="4" column="9" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.html" timestamp="1537622332827">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-form.component.html" timestamp="1507921010030">
         <mark key="[" line="9" column="116" />
         <mark key="]" line="9" column="126" />
@@ -67,10 +80,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.module.ts" timestamp="1537618721662">
-        <mark key="]" line="5" column="26" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.module.ts" timestamp="1537621874597">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/sandbox/src/app/home/home.component.ts" timestamp="1492803253380">
         <mark key="[" line="0" column="0" />
@@ -240,6 +254,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/main.ts" timestamp="1537619969190">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/category/category-list/category-list.component.ts" timestamp="1485032315458">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -366,6 +386,11 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.ts" timestamp="1537621432635">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/src/app/month/month-list/month-list.component.ts" timestamp="1475327586367">
         <mark key="[" line="20" column="18" />
@@ -562,6 +587,13 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/package.json" timestamp="1537622258502">
+        <mark key="'" line="6" column="34" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/sandbox/client/src/app/material.module.ts" timestamp="1507382423620">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="24" />
@@ -592,10 +624,23 @@
         <mark key="." line="73" column="20" />
         <mark key="^" line="73" column="20" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/material.module.ts" timestamp="1537619892280">
+        <mark key="'" line="1" column="625" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="18" column="620" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/tsconfig.json" timestamp="1512157801038">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" timestamp="1537622690806">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/transaction/month-transaction-list.service.ts" timestamp="1481398132449">
         <mark key="[" line="7" column="24" />
@@ -835,6 +880,12 @@
         <mark key="." line="59" column="30" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/styles.css" timestamp="1537619923357">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="0" column="60" />
+        <mark key="^" line="0" column="60" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/tslint.json" timestamp="1506707007138">
         <mark key="[" line="45" column="37" />
         <mark key="]" line="44" column="34" />
@@ -892,7 +943,7 @@
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537618038030">
+      <file name="/Dummy.txt" timestamp="1537621781774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/app.component.css" timestamp="1485569837119">
@@ -1045,10 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/JetBrains/WebStorm/sandbox/server/src/item/item.routes.js" />
-      <jump line="64" column="23" filename="$USER_HOME$/JetBrains/WebStorm/sandbox/server/src/item/item.routes.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/server/app.js" />
-      <jump line="4" column="13" filename="$USER_HOME$/JetBrains/WebStorm/template/server/src/item/item.model.js" />
       <jump line="65" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/server/src/item/item.routes.js" />
       <jump line="18" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/server/src/item/item.routes.js" />
       <jump line="41" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/server/src/item/item.routes.js" />
@@ -1145,13 +1192,17 @@
       <jump line="8" column="7" filename="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" />
       <jump line="4" column="3" filename="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" />
       <jump line="1" column="7" filename="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" />
+      <jump line="1" column="625" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/material.module.ts" />
+      <jump line="0" column="39" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.html" />
+      <jump line="6" column="34" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/package.json" />
+      <jump line="4" column="15" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LnByb2plY3QKLmNsYXNzcGF0aAouYzkvCioubGF1bmNoCi5zZXR0aW5ncy8KKi5zdWJsaW1lLXdvcmtzcGFjZQoKIyBJREUgLSBWU0NvZGUKLnZzY29kZS8qCiEudnNjb2RlL3NldHRpbmdzLmpzb24KIS52c2NvZGUvdGFza3MuanNvbgohLnZzY29kZS9sYXVuY2guanNvbgohLnZzY29kZS9leHRlbnNpb25zLmpzb24KCiMgbWlzYwovLnNhc3MtY2FjaGUKL2Nvbm5lY3QubG9jawovY292ZXJhZ2UKL2xpYnBlZXJjb25uZWN0aW9uLmxvZwpucG0tZGVidWcubG9nCnlhcm4tZXJyb3IubG9nCnRlc3RlbS5sb2cKL3R5cGluZ3MKCiMgU3lzdGVtIEZpbGVzCi5EU19TdG9yZQpUaHVtYnMuZGIK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>, next</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
@@ -1160,7 +1211,7 @@
         <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciByb3V0ZXIgPSBleHByZXNzLlJvdXRlcigpOwoKLyogR0VUIGhvbWUgcGFnZS4gKi8Kcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignaW5kZXgnLCB7IHRpdGxlOiAnRXhwcmVzcycgfSk7Cn0pOwoKbW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LnByb2plY3QKLmNsYXNzcGF0aAouYzkvCioubGF1bmNoCi5zZXR0aW5ncy8KKi5zdWJsaW1lLXdvcmtzcGFjZQoKIyBJREUgLSBWU0NvZGUKLnZzY29kZS8qCiEudnNjb2RlL3NldHRpbmdzLmpzb24KIS52c2NvZGUvdGFza3MuanNvbgohLnZzY29kZS9sYXVuY2guanNvbgohLnZzY29kZS9leHRlbnNpb25zLmpzb24KCiMgbWlzYwovLnNhc3MtY2FjaGUKL2Nvbm5lY3QubG9jawovY292ZXJhZ2UKL2xpYnBlZXJjb25uZWN0aW9uLmxvZwpucG0tZGVidWcubG9nCnlhcm4tZXJyb3IubG9nCnRlc3RlbS5sb2cKL3R5cGluZ3MKCiMgU3lzdGVtIEZpbGVzCi5EU19TdG9yZQpUaHVtYnMuZGIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1226,31 +1277,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cDovL2hlbHAuZ2l0aHViLmNvbS9pZ25vcmUtZmlsZXMvIGZvciBtb3JlIGFib3V0IGlnbm9yaW5nIGZpbGVzLgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L3RtcAovb3V0LXRzYwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9vQ29tcG9uZW50IH0gZnJvbSAnLi9mb28vZm9vLmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBTZWUgaHR0cDovL2hlbHAuZ2l0aHViLmNvbS9pZ25vcmUtZmlsZXMvIGZvciBtb3JlIGFib3V0IGlnbm9yaW5nIGZpbGVzLgoK</text>
+        <text encoding="base64">ICAgIEZvb0NvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaW5kZXhSb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcy9pbmRleCcpOwpjb25zdCB1c2Vyc1JvdXRlciA9IHJlcXVpcmUoJy4vcm91dGVzL3VzZXJzJyk7Cgo=</text>
+        <text encoding="base64">ICAgIE1hdEdyaWRMaXN0TW9kdWxlLAogICAgTWF0Q2FyZE1vZHVsZSwKICAgIE1hdE1lbnVNb2R1bGUsCiAgICBNYXRJY29uTW9kdWxlLAogICAgTWF0QnV0dG9uTW9kdWxlLAogICAgTGF5b3V0TW9kdWxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
+        <text encoding="base64">PG1hdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogR0VUIGhvbWUgcGFnZS4gKi8K</text>
+        <text encoding="base64">ICA8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2ljb24/ZmFtaWx5PU1hdGVyaWFsK0ljb25zIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBicmVhazs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">bWF0dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuCgo=</text>
+        <text encoding="base64">PG1hdHQK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
