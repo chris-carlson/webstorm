@@ -151,11 +151,12 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" timestamp="1537643479971">
-        <mark key="'" line="7" column="18" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" timestamp="1537645447934">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/month/month-list/month-list.service.ts" timestamp="1481398105451">
         <mark key="[" line="7" column="24" />
@@ -1109,10 +1110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="19" filename="$USER_HOME$/JetBrains/WebStorm/template/client/package.json" />
-      <jump line="50" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/package.json" />
-      <jump line="12" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/material.module.ts" />
-      <jump line="71" column="22" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/material.module.ts" />
       <jump line="8" column="34" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/material.module.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/main.ts" />
       <jump line="18" column="14" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/app.module.ts" />
@@ -1209,13 +1206,17 @@
       <jump line="15" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" />
       <jump line="8" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
       <jump line="7" column="18" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
+      <jump line="3" column="41" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
+      <jump line="0" column="31" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZXhjZWwgPSByZXF1aXJlKCdleGNlbCcpOwo=</text>
+        <text encoding="base64">ICBwYXJzZVhsc3goJ0M6XFxVc2Vyc1xcQ2hyaXMgQ2FybHNvblxcT25lRHJpdmVcXEV4Y2VsXFxib2FyZF9nYW1lcy54bHN4JykudGhlbigoZGF0YSkgPT4gewogICAgcmVzLmpzb24oZGF0YSk7CiAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'foo'</text>
+        <text encoding="base64">fSA=</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
@@ -1224,7 +1225,7 @@
         <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciByb3V0ZXIgPSBleHByZXNzLlJvdXRlcigpOwoKLyogR0VUIGhvbWUgcGFnZS4gKi8Kcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignaW5kZXgnLCB7IHRpdGxlOiAnRXhwcmVzcycgfSk7Cn0pOwoKbW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZXhjZWwgPSByZXF1aXJlKCdleGNlbCcpOwo=</text>
+        <text encoding="base64">ICBwYXJzZVhsc3goJ0M6XFxVc2Vyc1xcQ2hyaXMgQ2FybHNvblxcT25lRHJpdmVcXEV4Y2VsXFxib2FyZF9nYW1lcy54bHN4JykudGhlbigoZGF0YSkgPT4gewogICAgcmVzLmpzb24oZGF0YSk7CiAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1290,31 +1291,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleGNlbAo=</text>
+        <text encoding="base64">Y29uc3QgY29udmVydEV4Y2VsID0gcmVxdWlyZSgnZXhjJyk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgID0gOwo=</text>
+        <text encoding="base64">Y29uc3QgID0gcmVxdWlyZSgnJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXMuc2VuZCgnZm9vJyk7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgcGFyc2VYbHN4ID0gcmVxdWlyZSgnZXhjZWwnKTsKLy8gY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGFyc2VYbHN4KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHBhcnNlWGxzeCBmcm9tICdleGNlbCc7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgbm9kZQoK</text>
+        <text encoding="base64">aW1wb3J0IHBhcnNlWGxzeCBmcm9tICdleGNlbCc7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gSW5jbHVkZSB0aGUgYWx0ZXJuYXRpdmUgdGhlbWUgc3R5bGVzIGluc2lkZSBvZiBhIGJsb2NrIHdpdGggYSBDU1MgY2xhc3MuIFlvdSBjYW4gbWFrZSB0aGlzCi8vIENTUyBjbGFzcyB3aGF0ZXZlciB5b3Ugd2FudC4gSW4gdGhpcyBleGFtcGxlLCBhbnkgY29tcG9uZW50IGluc2lkZSBvZiBhbiBlbGVtZW50IHdpdGgKLy8gYC51bmljb3JuLWRhcmstdGhlbWVgIHdpbGwgYmUgYWZmZWN0ZWQgYnkgdGhpcyBhbHRlcm5hdGUgZGFyayB0aGVtZSBpbnN0ZWFkIG9mIHRoZSBkZWZhdWx0IHRoZW1lLgo=</text>
+        <text encoding="base64">Y29uc3QgZXhjZWwgPSByZXF1aXJlKCdleGNlbCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gRGVmaW5lIGFuIGFsdGVybmF0ZSBkYXJrIHRoZW1lLgo=</text>
+        <text encoding="base64">ICBleGNlbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y29uc3QgID0gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
