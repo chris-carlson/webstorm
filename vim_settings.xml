@@ -6,12 +6,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" timestamp="1537617844984">
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" timestamp="1537618486883">
         <mark key="'" line="1" column="7" />
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="1" column="7" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.ts" timestamp="1509818267796">
         <mark key="[" line="12" column="12" />
@@ -66,6 +66,11 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.module.ts" timestamp="1537618721662">
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/sandbox/src/app/home/home.component.ts" timestamp="1492803253380">
         <mark key="[" line="0" column="0" />
