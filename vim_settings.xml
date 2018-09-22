@@ -151,6 +151,12 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" timestamp="1537643479971">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/month/month-list/month-list.service.ts" timestamp="1481398105451">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="23" />
@@ -568,12 +574,6 @@
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
         <mark key="^" line="59" column="18" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/budget/karma.conf.js" timestamp="1530729477573">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/page-not-found/page-not-found.component.html" timestamp="1507814403051">
         <mark key="[" line="4" column="27" />
@@ -1109,8 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="23" filename="$USER_HOME$/JetBrains/WebStorm/template/server/src/item/item.routes.js" />
-      <jump line="20" column="46" filename="$USER_HOME$/JetBrains/WebStorm/template/server/app.js" />
       <jump line="1" column="19" filename="$USER_HOME$/JetBrains/WebStorm/template/client/package.json" />
       <jump line="50" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/package.json" />
       <jump line="12" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/material.module.ts" />
@@ -1209,13 +1207,15 @@
       <jump line="14" column="39" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" />
       <jump line="26" column="1" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" />
       <jump line="15" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" />
+      <jump line="8" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
+      <jump line="7" column="18" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/file-read</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgZXhjZWwgPSByZXF1aXJlKCdleGNlbCcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/file-read</text>
+        <text>'foo'</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
@@ -1224,7 +1224,7 @@
         <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciByb3V0ZXIgPSBleHByZXNzLlJvdXRlcigpOwoKLyogR0VUIGhvbWUgcGFnZS4gKi8Kcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignaW5kZXgnLCB7IHRpdGxlOiAnRXhwcmVzcycgfSk7Cn0pOwoKbW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgbm9kZQoK</text>
+        <text encoding="base64">Y29uc3QgZXhjZWwgPSByZXF1aXJlKCdleGNlbCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1290,31 +1290,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gSW5jbHVkZSB0aGUgYWx0ZXJuYXRpdmUgdGhlbWUgc3R5bGVzIGluc2lkZSBvZiBhIGJsb2NrIHdpdGggYSBDU1MgY2xhc3MuIFlvdSBjYW4gbWFrZSB0aGlzCi8vIENTUyBjbGFzcyB3aGF0ZXZlciB5b3Ugd2FudC4gSW4gdGhpcyBleGFtcGxlLCBhbnkgY29tcG9uZW50IGluc2lkZSBvZiBhbiBlbGVtZW50IHdpdGgKLy8gYC51bmljb3JuLWRhcmstdGhlbWVgIHdpbGwgYmUgYWZmZWN0ZWQgYnkgdGhpcyBhbHRlcm5hdGUgZGFyayB0aGVtZSBpbnN0ZWFkIG9mIHRoZSBkZWZhdWx0IHRoZW1lLgo=</text>
+        <text encoding="base64">ICBleGNlbAo=</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gRGVmaW5lIGFuIGFsdGVybmF0ZSBkYXJrIHRoZW1lLgo=</text>
+        <text encoding="base64">Y29uc3QgID0gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICByZXMuc2VuZCgnZm9vJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gSW5jbHVkZSB0aGUgZGVmYXVsdCB0aGVtZSBzdHlsZXMuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gRGVmaW5lIHRoZSBkZWZhdWx0IHRoZW1lIChzYW1lIGFzIHRoZSBleGFtcGxlIGFib3ZlKS4K</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgbm9kZQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gSW5jbHVkZSB0aGUgY29tbW9uIHN0eWxlcyBmb3IgQW5ndWxhciBNYXRlcmlhbC4gV2UgaW5jbHVkZSB0aGlzIGhlcmUgc28gdGhhdCB5b3Ugb25seQovLyBoYXZlIHRvIGxvYWQgYSBzaW5nbGUgY3NzIGZpbGUgZm9yIEFuZ3VsYXIgTWF0ZXJpYWwgaW4geW91ciBhcHAuCi8vICoqQmUgc3VyZSB0aGF0IHlvdSBvbmx5IGV2ZXIgaW5jbHVkZSB0aGlzIG1peGluIG9uY2UhKioK</text>
+        <text encoding="base64">Ly8gSW5jbHVkZSB0aGUgYWx0ZXJuYXRpdmUgdGhlbWUgc3R5bGVzIGluc2lkZSBvZiBhIGJsb2NrIHdpdGggYSBDU1MgY2xhc3MuIFlvdSBjYW4gbWFrZSB0aGlzCi8vIENTUyBjbGFzcyB3aGF0ZXZlciB5b3Ugd2FudC4gSW4gdGhpcyBleGFtcGxlLCBhbnkgY29tcG9uZW50IGluc2lkZSBvZiBhbiBlbGVtZW50IHdpdGgKLy8gYC51bmljb3JuLWRhcmstdGhlbWVgIHdpbGwgYmUgYWZmZWN0ZWQgYnkgdGhpcyBhbHRlcm5hdGUgZGFyayB0aGVtZSBpbnN0ZWFkIG9mIHRoZSBkZWZhdWx0IHRoZW1lLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gSW5jbHVkZSB0aGUgY29tbW9uIHN0eWxlcyBmb3IgQW5ndWxhciBNYXRlcmlhbC4gV2UgaW5jbHVkZSB0aGlzIGhlcmUgc28gdGhhdCB5b3Ugb25seQovLyBoYXZlIHRvIGxvYWQgYSBzaW5nbGUgY3NzIGZpbGUgZm9yIEFuZ3VsYXIgTWF0ZXJpYWwgaW4geW91ciBhcHAuCi8vICoqQmUgc3VyZSB0aGF0IHlvdSBvbmx5IGV2ZXIgaW5jbHVkZSB0aGlzIG1peGluIG9uY2UhKioKQGluY2x1ZGUgbWF0LWNvcmUoKTsK</text>
+        <text encoding="base64">Ly8gRGVmaW5lIGFuIGFsdGVybmF0ZSBkYXJrIHRoZW1lLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gUGx1cyBpbXBvcnRzIGZvciBvdGhlciBjb21wb25lbnRzIGluIHlvdXIgYXBwLgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
