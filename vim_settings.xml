@@ -6,6 +6,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" timestamp="1537617844984">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.ts" timestamp="1509818267796">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="21" />
@@ -41,10 +48,12 @@
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/errors.ts" timestamp="1509820511433">
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read/file-read.js" timestamp="1537617712195">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-form.component.html" timestamp="1507921010030">
         <mark key="[" line="9" column="116" />
@@ -383,6 +392,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/app.js" timestamp="1537617733523">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/category/category-list/category-list.component.html" timestamp="1483396047415">
         <mark key="[" line="3" column="5" />
@@ -743,6 +757,11 @@
         <mark key="." line="3" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/routes/index.js" timestamp="1537617616639">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-list/ingredient-list.component.html" timestamp="1512764010752">
         <mark key="'" line="4" column="46" />
         <mark key="[" line="4" column="32" />
@@ -867,6 +886,9 @@
         <mark key="[" line="29" column="36" />
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537618038030">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/budget/client/src/app/app.component.css" timestamp="1485569837119">
         <mark key="[" line="1" column="0" />
@@ -1018,13 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.spec.ts" />
-      <jump line="8" column="59" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
-      <jump line="16" column="45" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.ts" />
-      <jump line="18" column="50" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
-      <jump line="46" column="30" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
-      <jump line="20" column="47" filename="$USER_HOME$/JetBrains/WebStorm/sandbox/server/app.js" />
-      <jump line="1" column="31" filename="$USER_HOME$/JetBrains/WebStorm/sandbox/server/src/item/item.routes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/JetBrains/WebStorm/sandbox/server/src/item/item.routes.js" />
       <jump line="64" column="23" filename="$USER_HOME$/JetBrains/WebStorm/sandbox/server/src/item/item.routes.js" />
       <jump line="47" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/server/app.js" />
@@ -1118,22 +1133,29 @@
       <jump line="4" column="46" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-list/ingredient-list.component.html" />
       <jump line="3" column="16" filename="$USER_HOME$/JetBrains/WebStorm/foo/client/src/main.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/JetBrains/WebStorm/budget/karma.conf.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/routes/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/routes/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read/file-read.js" />
+      <jump line="4" column="9" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read/file-read.js" />
+      <jump line="8" column="7" filename="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" />
+      <jump line="4" column="3" filename="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" />
+      <jump line="1" column="7" filename="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$PATH$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LnByb2plY3QKLmNsYXNzcGF0aAouYzkvCioubGF1bmNoCi5zZXR0aW5ncy8KKi5zdWJsaW1lLXdvcmtzcGFjZQoKIyBJREUgLSBWU0NvZGUKLnZzY29kZS8qCiEudnNjb2RlL3NldHRpbmdzLmpzb24KIS52c2NvZGUvdGFza3MuanNvbgohLnZzY29kZS9sYXVuY2guanNvbgohLnZzY29kZS9leHRlbnNpb25zLmpzb24KCiMgbWlzYwovLnNhc3MtY2FjaGUKL2Nvbm5lY3QubG9jawovY292ZXJhZ2UKL2xpYnBlZXJjb25uZWN0aW9uLmxvZwpucG0tZGVidWcubG9nCnlhcm4tZXJyb3IubG9nCnRlc3RlbS5sb2cKL3R5cGluZ3MKCiMgU3lzdGVtIEZpbGVzCi5EU19TdG9yZQpUaHVtYnMuZGIK</text>
       </register>
       <register name="-" type="4">
-        <text>$PATH$</text>
+        <text>, next</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICYmICFlcnJvcnMuaGFzRXJyb3IoJ2luZ3JlZGllbnQtcmV0cmlldmUnKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciByb3V0ZXIgPSBleHByZXNzLlJvdXRlcigpOwoKLyogR0VUIGhvbWUgcGFnZS4gKi8Kcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignaW5kZXgnLCB7IHRpdGxlOiAnRXhwcmVzcycgfSk7Cn0pOwoKbW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBicmVhazs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">LnByb2plY3QKLmNsYXNzcGF0aAouYzkvCioubGF1bmNoCi5zZXR0aW5ncy8KKi5zdWJsaW1lLXdvcmtzcGFjZQoKIyBJREUgLSBWU0NvZGUKLnZzY29kZS8qCiEudnNjb2RlL3NldHRpbmdzLmpzb24KIS52c2NvZGUvdGFza3MuanNvbgohLnZzY29kZS9sYXVuY2guanNvbgohLnZzY29kZS9leHRlbnNpb25zLmpzb24KCiMgbWlzYwovLnNhc3MtY2FjaGUKL2Nvbm5lY3QubG9jawovY292ZXJhZ2UKL2xpYnBlZXJjb25uZWN0aW9uLmxvZwpucG0tZGVidWcubG9nCnlhcm4tZXJyb3IubG9nCnRlc3RlbS5sb2cKL3R5cGluZ3MKCiMgU3lzdGVtIEZpbGVzCi5EU19TdG9yZQpUaHVtYnMuZGIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1199,31 +1221,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuCgo=</text>
+        <text encoding="base64">IyBTZWUgaHR0cDovL2hlbHAuZ2l0aHViLmNvbS9pZ25vcmUtZmlsZXMvIGZvciBtb3JlIGFib3V0IGlnbm9yaW5nIGZpbGVzLgoK</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3RtcAovb3V0LXRzYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuCg==</text>
+        <text encoding="base64">IyBTZWUgaHR0cDovL2hlbHAuZ2l0aHViLmNvbS9pZ25vcmUtZmlsZXMvIGZvciBtb3JlIGFib3V0IGlnbm9yaW5nIGZpbGVzLgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgZm9vID0gJyc7CiAgbGV0IGEgPSBbXTsKICBhLmZpbHRlcihpID0+ICk7Cg==</text>
+        <text encoding="base64">Y29uc3QgaW5kZXhSb3V0ZXIgPSByZXF1aXJlKCcuL3JvdXRlcy9pbmRleCcpOwpjb25zdCB1c2Vyc1JvdXRlciA9IHJlcXVpcmUoJy4vcm91dGVzL3VzZXJzJyk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgPSA7Cg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFtVcmwucGFnZU5vdEZvdW5kXSk7Cg==</text>
+        <text encoding="base64">LyogR0VUIGhvbWUgcGFnZS4gKi8K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBicmVhazs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuCgo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
