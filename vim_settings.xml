@@ -104,7 +104,8 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" timestamp="1537649209522">
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" timestamp="1537650423684">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -594,11 +595,11 @@
         <mark key="." line="59" column="18" />
         <mark key="^" line="59" column="18" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/game.ts" timestamp="1537649570868">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-        <mark key="^" line="17" column="5" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/game.ts" timestamp="1537649883917">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/page-not-found/page-not-found.component.html" timestamp="1507814403051">
         <mark key="[" line="4" column="27" />
@@ -667,12 +668,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" timestamp="1537649798802">
-        <mark key="'" line="15" column="73" />
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="28" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" timestamp="1537650381987">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" timestamp="1537623932686">
         <mark key="'" line="15" column="0" />
@@ -1142,9 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="9" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-routing.module.ts" />
-      <jump line="59" column="101" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-form.component.ts" />
-      <jump line="5" column="25" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-add-form/item-add-form.component.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-add-form/item-add-form.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-add-form/item-add-form.component.html" />
       <jump line="14" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-add-form/item-add-form.component.html" />
@@ -1238,116 +1236,59 @@
       <jump line="19" column="25" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.module.ts" />
       <jump line="1" column="10" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.html" />
       <jump line="8" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
-      <jump line="15" column="86" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
       <jump line="0" column="7" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" />
       <jump line="18" column="20" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.module.ts" />
       <jump line="14" column="73" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
+      <jump line="15" column="75" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
+      <jump line="18" column="34" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
+      <jump line="47" column="2" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkYXRhOiBhbnk7Cg==</text>
+        <text encoding="base64">ICAgICAgPHRhYmxlIG1hdC10YWJsZSBbZGF0YVNvdXJjZV09ImNvbGxlY3Rpb25zIj4KICAgICAgICAgIDxuZy1jb250YWluZXIgbWF0Q29sdW1uRGVmPSIiPgogICAgICAgICAgICAgIDx0aCBtYXQtaGVhZGVyLWNlbGwgKm1hdEhlYWRlckNlbGxEZWY+PC90aD4KICAgICAgICAgICAgICA8dGQgbWF0LWNlbGwgKm1hdENlbGxEZWY9ImxldCAiPnt7fX08L3RkPgogICAgICAgICAgPC9uZy1jb250YWluZXI+CiAgICAgICAgICA8dHIgbWF0LWhlYWRlci1yb3cgKm1hdEhlYWRlclJvd0RlZj0iIj48L3RyPgogICAgICAgICAgPHRyIG1hdC1yb3cgKm1hdFJvd0RlZj0ibGV0IHJvdzsgY29sdW1uczogOyI+PC90cj4KICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="-" type="4">
-        <text>title: string, year: number</text>
+        <text>Data</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
       </register>
       <register name="0" type="4">
-        <text>games: Game[]</text>
+        <text>gameData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkYXRhOiBhbnk7Cg==</text>
+        <text encoding="base64">ICAgICAgPHRhYmxlIG1hdC10YWJsZSBbZGF0YVNvdXJjZV09ImNvbGxlY3Rpb25zIj4KICAgICAgICAgIDxuZy1jb250YWluZXIgbWF0Q29sdW1uRGVmPSIiPgogICAgICAgICAgICAgIDx0aCBtYXQtaGVhZGVyLWNlbGwgKm1hdEhlYWRlckNlbGxEZWY+PC90aD4KICAgICAgICAgICAgICA8dGQgbWF0LWNlbGwgKm1hdENlbGxEZWY9ImxldCAiPnt7fX08L3RkPgogICAgICAgICAgPC9uZy1jb250YWluZXI+CiAgICAgICAgICA8dHIgbWF0LWhlYWRlci1yb3cgKm1hdEhlYWRlclJvd0RlZj0iIj48L3RyPgogICAgICAgICAgPHRyIG1hdC1yb3cgKm1hdFJvd0RlZj0ibGV0IHJvdzsgY29sdW1uczogOyI+PC90cj4KICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="47" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="69" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="70" code="0" mods="0" />
-          <key char="82" code="0" mods="0" />
-          <key char="126" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="70" code="0" mods="0" />
-          <key char="82" code="0" mods="0" />
-          <key char="126" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="43" code="0" mods="0" />
-        </keys>
+        <text>^4W&quot;_deP+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBEYXRhOiBhbnkgPSBkYXRhW2NvbGxlY3Rpb25JbmRleF07Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMubnVtUGxheWVycyA9IAo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMudGl0bGUgPSBkYXRhWzBdOwogICAgLy8gdGhpcy55ZWFyID0gZGF0YVsyXTsKICAgIC8vIHRoaXMudm90ZXMgPSBkYXRhWzNdOwogICAgLy8gdGhpcy5yYXRpbmcgPSBkYXRhWzRdOwogICAgLy8gdGhpcy53ZWlnaHQgPSBkYXRhWzVdOwogICAgLy8gZm9yIChsZXQgaW5kZXggPSA2OyBpbmRleCA8IGRhdGEubGVuZ3RoOyBpbmRleCsrKSB7CiAgICAvLyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMudCA9IHQ7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMudGl0bGUgPSBkYXRhWzBdOwogICAgdGhpcy55ZWFyID0gZGF0YVsyXTsKICAgIHRoaXMudm90ZXMgPSBkYXRhWzNdOwogICAgdGhpcy5yYXRpbmcgPSBkYXRhWzRdOwogICAgdGhpcy53ZWlnaHQgPSBkYXRhWzVdOwogICAgZm9yIChsZXQgaW5kZXggPSA2OyBpbmRleCA8IGRhdGEubGVuZ3RoOyBpbmRleCsrKSB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb286IHN0cmluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
