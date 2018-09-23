@@ -665,12 +665,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" timestamp="1537729162952">
-        <mark key="'" line="50" column="2" />
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="39" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" timestamp="1537730422828">
+        <mark key="e" line="46" column="51" />
+        <mark key="[" line="44" column="80" />
+        <mark key="]" line="44" column="85" />
+        <mark key="." line="44" column="85" />
+        <mark key="^" line="44" column="85" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" timestamp="1537623932686">
         <mark key="'" line="15" column="0" />
@@ -1140,7 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-add-form/item-add-form.component.html" />
       <jump line="14" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-add-form/item-add-form.component.html" />
       <jump line="94" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/foo.component.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/foo.component.ts" />
@@ -1240,52 +1239,53 @@
       <jump line="47" column="2" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" />
       <jump line="11" column="64" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" />
+      <jump line="44" column="25" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'year', 'votes', 'rating', 'weight'</text>
+        <text encoding="base64">ICsgJywgJyArIA==</text>
       </register>
       <register name="-" type="4">
-        <text>, 'year', 'votes', 'rating', 'weight'</text>
+        <text>JSON.stringify()</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZWFkb25seSBjb2x1bW5zOiBzdHJpbmdbXSA9IFsndGl0bGUnLCAneWVhcicsICd2b3RlcycsICdyYXRpbmcnLCAnd2VpZ2h0J107Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICsgJywgJyArIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f'l~f,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bmctY29udGFpbmVyPjwvbmctY29udGFpbmVyPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnYW1lLnRpdGxlKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+Rm9vPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aXRsZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29sbGVjdGlvbi5nYW1lcy5mb3JFYWNoKChnYW1lOiBHYW1lKSA9PiBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShnYW1lLnRpdGxlKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+Rm9vPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aXRsZSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHRhYmxlIG1hdC10YWJsZSBbZGF0YVNvdXJjZV09ImNvbGxlY3Rpb25zIj4KICAgICAgICAgIDxuZy1jb250YWluZXIgbWF0Q29sdW1uRGVmPSIiPgogICAgICAgICAgICAgIDx0aCBtYXQtaGVhZGVyLWNlbGwgKm1hdEhlYWRlckNlbGxEZWY+PC90aD4KICAgICAgICAgICAgICA8dGQgbWF0LWNlbGwgKm1hdENlbGxEZWY9ImxldCAiPnt7fX08L3RkPgogICAgICAgICAgPC9uZy1jb250YWluZXI+CiAgICAgICAgICA8dHIgbWF0LWhlYWRlci1yb3cgKm1hdEhlYWRlclJvd0RlZj0iIj48L3RyPgogICAgICAgICAgPHRyIG1hdC1yb3cgKm1hdFJvd0RlZj0ibGV0IHJvdzsgY29sdW1uczogOyI+PC90cj4KICAgICAgPC90YWJsZT4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aXRsZSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBEYXRhOiBhbnkgPSBkYXRhW2NvbGxlY3Rpb25JbmRleF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShnYW1lRGF0YSkpOwogICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGdhbWVEYXRhWzBdKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCAgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMudGl0bGUgPSBkYXRhWzBdOwogICAgLy8gdGhpcy55ZWFyID0gZGF0YVsyXTsKICAgIC8vIHRoaXMudm90ZXMgPSBkYXRhWzNdOwogICAgLy8gdGhpcy5yYXRpbmcgPSBkYXRhWzRdOwogICAgLy8gdGhpcy53ZWlnaHQgPSBkYXRhWzVdOwogICAgLy8gZm9yIChsZXQgaW5kZXggPSA2OyBpbmRleCA8IGRhdGEubGVuZ3RoOyBpbmRleCsrKSB7CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZ2FtZUFycmF5KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
