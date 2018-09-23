@@ -676,11 +676,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" timestamp="1537732092747">
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="56" column="18" />
-        <mark key="^" line="56" column="18" />
-        <mark key="." line="56" column="18" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" timestamp="1537735191153">
+        <mark key="[" line="56" column="43" />
+        <mark key="]" line="56" column="83" />
+        <mark key="^" line="56" column="83" />
+        <mark key="." line="56" column="83" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" timestamp="1537623932686">
         <mark key="'" line="15" column="0" />
@@ -1260,7 +1260,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Rating</text>
+        <text>game1: Game</text>
       </register>
       <register name="-" type="4">
         <text>Rating</text>
@@ -1268,8 +1268,8 @@
       <register name="/" type="4">
         <text>errors</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxuZy1jb250YWluZXIgbWF0Q29sdW1uRGVmPSJ0aXRsZSI+CiAgICAgICAgICAgIDx0aCBtYXQtaGVhZGVyLWNlbGwgKm1hdEhlYWRlckNlbGxEZWY+VGl0bGU8L3RoPgogICAgICAgICAgICA8dGQgbWF0LWNlbGwgKm1hdENlbGxEZWY9ImxldCBnYW1lIj57e2dhbWUudGl0bGV9fTwvdGQ+CiAgICAgICAgICA8L25nLWNvbnRhaW5lcj4K</text>
+      <register name="0" type="4">
+        <text>game1: Game</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
