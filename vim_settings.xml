@@ -676,12 +676,12 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" timestamp="1538231389963">
-        <mark key="'" line="23" column="64" />
-        <mark key="[" line="23" column="65" />
-        <mark key="]" line="23" column="72" />
-        <mark key="." line="23" column="72" />
-        <mark key="^" line="23" column="72" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" timestamp="1538235744504">
+        <mark key="'" line="6" column="47" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/sandbox/src/styles.css" timestamp="1494543577213">
         <mark key="[" line="31" column="1" />
@@ -1163,7 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="55" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-detail/item-detail.component.html" />
       <jump line="20" column="2" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-form.component.ts" />
       <jump line="31" column="33" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-edit-form.component.ts" />
       <jump line="41" column="30" filename="$USER_HOME$/JetBrains/WebStorm/template/client/src/app/item/item-form/item-edit-form.component.ts" />
@@ -1263,19 +1262,20 @@
       <jump line="62" column="32" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
       <jump line="44" column="73" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.ts" />
       <jump line="29" column="46" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/table-sorting-example/table-sorting-example.component.ts" />
+      <jump line="6" column="47" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIEB0aXRsZSBUYWJsZSB3aXRoIHNvcnRpbmcKICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>collections[0].name</text>
       </register>
       <register name="-" type="4">
-        <text>Game</text>
+        <text>collections[0].name</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IG1hdC1zb3J0LWhlYWRlcg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8dGFibGUgbWF0LXRhYmxlIFtkYXRhU291cmNlXT0iZ2FtZXNbY29sbGVjdGlvbi5uYW1lXSIgbWF0U29ydCBzdHlsZT0id2lkdGg6IDEwMCUiPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIEB0aXRsZSBUYWJsZSB3aXRoIHNvcnRpbmcKICovCg==</text>
