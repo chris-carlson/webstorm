@@ -3,19 +3,11 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="html/xml" />
-          <option name="key" value="t" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="html/xml" />
+          <option name="groupName" value="HTML/XML" />
           <option name="key" value="T" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="html/xml" />
-          <option name="key" value="T2" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="html/xml" />
+          <option name="groupName" value="HTML/XML" />
           <option name="key" value="CD" />
         </TemplateKey>
         <TemplateKey>
@@ -3988,6 +3980,14 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
+          <option name="key" value="rsf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rsfp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
           <option name="key" value="rscp" />
         </TemplateKey>
         <TemplateKey>
@@ -4252,7 +4252,15 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
+          <option name="key" value="a-module-with-routing" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
           <option name="key" value="a-pipe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-injectable-providedin" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
@@ -4272,15 +4280,23 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
-          <option name="key" value="a-module-routing" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular" />
           <option name="key" value="a-service" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
           <option name="key" value="a-httpclient-get" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-entity-collection-data-service" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-entity-metadata" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-store-module" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
@@ -4307,6 +4323,10 @@
           <option name="key" value="itar" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Meteor HTML" />
+          <option name="key" value="temp:name" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="HTTP Request" />
           <option name="key" value="gtr" />
         </TemplateKey>
@@ -4329,10 +4349,6 @@
         <TemplateKey>
           <option name="groupName" value="HTTP Request" />
           <option name="key" value="fptr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Meteor HTML" />
-          <option name="key" value="temp:name" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
