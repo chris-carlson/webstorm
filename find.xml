@@ -1,12 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Inspection Scope" />
-    <option name="defaultScopeName" value="Inspection Scope" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Inspection Scope" />
+    <option name="customScope" value="Project 'nutrition'" />
+    <option name="defaultScopeName" value="Project 'nutrition'" />
+    <option name="SEARCH_SCOPE" value="Project 'nutrition'" />
     <option name="FILE_MASK" value="*ts" />
   </component>
 </application>
