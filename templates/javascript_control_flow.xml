@@ -48,7 +48,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="=" value="$VAR1$ === $VAR2$" description="equality check" toReformat="false" toShortenFQNames="true">
+  <template name="eq" value="$VAR1$ === $VAR2$" description="equality check" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -56,7 +56,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="&amp;" value="$VAR1$ &amp;&amp; $VAR2$" description="and condition" toReformat="false" toShortenFQNames="true">
+  <template name="and" value="$VAR1$ &amp;&amp; $VAR2$" description="and condition" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -64,7 +64,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="|" value="$VAR1$ || $VAR2$" description="or condition" toReformat="false" toShortenFQNames="true">
+  <template name="or" value="$VAR1$ || $VAR2$" description="or condition" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
