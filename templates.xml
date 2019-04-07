@@ -3816,7 +3816,23 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
+          <option name="key" value="disp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
           <option name="key" value="est" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="fcc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="fsc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="fsf" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
@@ -3976,6 +3992,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
+          <option name="key" value="rrdc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
           <option name="key" value="rsc" />
         </TemplateKey>
         <TemplateKey>
@@ -3985,6 +4005,10 @@
         <TemplateKey>
           <option name="groupName" value="React" />
           <option name="key" value="rsfp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rsi" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
