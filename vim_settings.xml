@@ -256,11 +256,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/index.html" timestamp="1554576654681">
-        <mark key="[" line="7" column="58" />
-        <mark key="]" line="8" column="87" />
-        <mark key="." line="8" column="87" />
-        <mark key="^" line="8" column="87" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/index.html" timestamp="1554685055150">
+        <mark key="'" line="11" column="26" />
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-detail/ingredient-detail.component.ts" timestamp="1513194051434">
         <mark key="'" line="25" column="30" />
@@ -423,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/routes/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read/file-read.js" />
       <jump line="4" column="9" filename="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read/file-read.js" />
       <jump line="8" column="7" filename="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" />
@@ -523,13 +523,14 @@
       <jump line="13" column="24" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" />
       <jump line="27" column="1" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app-routing.module.ts" />
       <jump line="3" column="47" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.html" />
+      <jump line="11" column="26" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwPkxpc3Qgb2YgbnV0cmllbnRzPC9wPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsYXNzPSJkYXJrLXRoZW1lIg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IGNsYXNzPSJkYXJrLXRoZW1lIg==</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
