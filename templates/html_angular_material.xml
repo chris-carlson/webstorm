@@ -47,7 +47,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matnl" value="&lt;mat-nav-list&gt;&#10;  &lt;a mat-list-item href=&quot;$ROUTE$&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list" toReformat="false" toShortenFQNames="true">
+  <template name="matnl" value="&lt;mat-nav-list&gt;&#10;  &lt;a mat-list-item routerLink=&quot;$ROUTE$&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list" toReformat="false" toShortenFQNames="true">
     <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -74,6 +74,21 @@
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DISPLAY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COLUMNS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matnlp" value="&lt;mat-nav-list&gt;&#10;  &lt;a mat-list-item [routerLink]=&quot;[$ROUTE$]&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list with parameters" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matblp" value="&lt;a mat-$TYPE$button [routerLink]=&quot;[$ROUTE$]&quot;&gt;$NAME$&lt;/a&gt;" description="link button with parameters" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="&quot;raised-&quot;" alwaysStopAt="true" />
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
