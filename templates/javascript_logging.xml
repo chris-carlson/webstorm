@@ -1,24 +1,30 @@
 <templateSet group="javascript_logging">
-  <template name="clog" value="console.log(JSON.stringify($EXPRESSION$));" description="console log statement" toReformat="false" toShortenFQNames="true">
+  <template name="clog" value="console.log($EXPRESSION$)" description="console log statement" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JS_EXPRESSION" value="true" />
       <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="clogv" value="console.log('$EXPRESSION$: ' + JSON.stringify($EXPRESSION$));" description="console log variable" toReformat="false" toShortenFQNames="true">
+  <template name="clogv" value="console.log('$EXPRESSION$: ' + $EXPRESSION$)" description="console log variable" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JS_EXPRESSION" value="true" />
       <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="clogm" value="console.log('$MESSAGE$: ' + JSON.stringify($EXPRESSION$));" description="console log message" toReformat="false" toShortenFQNames="true">
+  <template name="clogm" value="console.log('$MESSAGE$: ' + $EXPRESSION$)" description="console log message" toReformat="false" toShortenFQNames="true">
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="JS_EXPRESSION" value="true" />
       <option name="JS_STATEMENT" value="true" />
-      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="json" value="JSON.stringify($EXPRESSION$)" description="json stringify" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>
