@@ -93,4 +93,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="matl" value="&lt;mat-list&gt;&#10;&#9;&lt;mat-list-item&gt;$CONTENT$&lt;/mat-list-item&gt;&#10;&lt;/mat-list&gt;" description="list" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

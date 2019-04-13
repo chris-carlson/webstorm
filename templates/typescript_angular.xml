@@ -38,4 +38,15 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="in" value="@Input() $NAME$: $TYPE$;" description="component input" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TS_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="out" value="@Output() $NAME$: EventEmitter = new EventEmitter&lt;$TYPE$&gt;();" description="component output" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
 </templateSet>
