@@ -20,12 +20,6 @@
         <mark key="^" line="28" column="45" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.ts" timestamp="1554683237994">
-        <mark key="'" line="7" column="27" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/page-not-found/page-not-found.component.html" timestamp="1538237955537">
         <mark key="'" line="3" column="71" />
         <mark key="[" line="3" column="51" />
@@ -82,6 +76,13 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="61" column="620" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" timestamp="1555188715553">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" timestamp="1537623932686">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
@@ -95,6 +96,13 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item.ts" timestamp="1555185485280">
+        <mark key="'" line="1" column="12" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.module.ts" timestamp="1538245828677">
         <mark key="'" line="34" column="0" />
@@ -110,6 +118,12 @@
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="47" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/material/material.module.ts" timestamp="1554576480868">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="12" column="646" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-nutrient/ingredient-nutrient-routing.module.ts" timestamp="1508527271798">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="25" column="25" />
@@ -117,12 +131,8 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" timestamp="1555183978414">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="42" column="2" />
-        <mark key="]" line="42" column="9" />
-        <mark key="." line="42" column="9" />
-        <mark key="^" line="42" column="9" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" timestamp="1555189278715">
+        <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient.ts" timestamp="1509127240815">
         <mark key="'" line="15" column="0" />
@@ -131,12 +141,32 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.service.ts" timestamp="1555187713620">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" timestamp="1537647768278">
         <mark key="'" line="5" column="70" />
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="16" />
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.sass" timestamp="1555187938581">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.html" timestamp="1555188635067">
+        <mark key="'" line="3" column="56" />
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="56" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/games.service.ts" timestamp="1538244050055">
         <mark key="'" line="13" column="97" />
@@ -194,12 +224,8 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.ts" timestamp="1555159336269">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="24" column="83" />
-        <mark key="]" line="24" column="83" />
-        <mark key="." line="24" column="83" />
-        <mark key="^" line="23" column="17" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.ts" timestamp="1555189348673">
+        <mark key="'" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app-routing.module.ts" timestamp="1554684251502">
         <mark key="'" line="27" column="1" />
@@ -229,12 +255,18 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" timestamp="1555168110791">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/.gitignore" timestamp="1554066640628">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" timestamp="1555187603218">
+        <mark key="'" line="27" column="18" />
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app-routing.module.ts" timestamp="1538245889426">
         <mark key="'" line="28" column="34" />
@@ -257,12 +289,24 @@
         <mark key="^" line="10" column="45" />
         <mark key="." line="10" column="45" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock.ts" timestamp="1555184798573">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/app.js" timestamp="1554159240103">
         <mark key="'" line="25" column="29" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="36" />
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/main.ts" timestamp="1554576640024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/index.html" timestamp="1554685055150">
         <mark key="'" line="11" column="26" />
@@ -292,6 +336,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="54" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" timestamp="1555186037172">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="^" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.ts" timestamp="1538246152530">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="23" column="18" />
@@ -313,6 +364,13 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.ts" timestamp="1555188990344">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-form/ingredient-form-add/ingredient-form-add.component.ts" timestamp="1509820657337">
         <mark key="'" line="7" column="54" />
         <mark key="[" line="23" column="14" />
@@ -327,18 +385,19 @@
         <mark key="^" line="38" column="2" />
         <mark key="." line="38" column="2" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" timestamp="1554844568018">
-        <mark key="'" line="60" column="21" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.html" timestamp="1555187691795">
+        <mark key="'" line="2" column="70" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" timestamp="1555159502469">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="48" />
-        <mark key="." line="16" column="48" />
-        <mark key="^" line="16" column="48" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" timestamp="1555187767428">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="23" column="46" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.html" timestamp="1538238170387">
         <mark key="'" line="4" column="117" />
@@ -360,12 +419,6 @@
         <mark key="]" line="15" column="104" />
         <mark key="^" line="15" column="104" />
         <mark key="." line="15" column="104" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/styles.sass" timestamp="1555167316769">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.spec.ts" timestamp="1538244067729">
         <mark key="'" line="2" column="46" />
@@ -395,12 +448,12 @@
         <mark key="." line="25" column="41" />
         <mark key="^" line="25" column="41" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" timestamp="1555168137858">
-        <mark key="'" line="26" column="12" />
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="26" column="12" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" timestamp="1555188896672">
+        <mark key="'" line="41" column="62" />
+        <mark key="[" line="41" column="58" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="62" />
+        <mark key="^" line="41" column="62" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-form/ingredient-form.component.ts" timestamp="1510012176827">
         <mark key="'" line="33" column="29" />
@@ -416,12 +469,12 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-routing.module.ts" timestamp="1554810649719">
-        <mark key="'" line="11" column="19" />
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-routing.module.ts" timestamp="1555189194404">
+        <mark key="'" line="21" column="35" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="35" />
+        <mark key="^" line="21" column="35" />
+        <mark key="." line="21" column="35" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/weight.pipe.ts" timestamp="1537731906742">
         <mark key="'" line="5" column="25" />
@@ -444,6 +497,13 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings-dialog.component.ts" timestamp="1555188823070">
+        <mark key="'" line="7" column="31" />
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.html" timestamp="1554773034758">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="0" />
@@ -453,46 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="13" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-detail/collection-detail.component.ts" />
-      <jump line="14" column="33" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-detail/collection-detail.component.ts" />
-      <jump line="26" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-detail/collection-detail.component.ts" />
-      <jump line="3" column="39" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-detail/collection-detail.component.html" />
-      <jump line="1" column="14" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.html" />
-      <jump line="4" column="117" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.html" />
-      <jump line="2" column="68" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.spec.ts" />
-      <jump line="14" column="97" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/games.service.ts" />
-      <jump line="13" column="31" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.ts" />
-      <jump line="6" column="22" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.ts" />
-      <jump line="2" column="46" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.spec.ts" />
-      <jump line="9" column="39" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.ts" />
-      <jump line="14" column="38" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.ts" />
-      <jump line="3" column="55" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.ts" />
-      <jump line="21" column="16" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.ts" />
-      <jump line="19" column="10" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.ts" />
-      <jump line="17" column="27" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.ts" />
-      <jump line="34" column="66" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-detail/collection-detail.component.ts" />
-      <jump line="28" column="34" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app-routing.module.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.ts" />
-      <jump line="19" column="31" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/angular.json" />
-      <jump line="5" column="20" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/package.json" />
-      <jump line="33" column="5" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/app.js" />
-      <jump line="16" column="16" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.html" />
-      <jump line="16" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" />
-      <jump line="10" column="3" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" />
-      <jump line="7" column="15" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" />
-      <jump line="19" column="38" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" />
-      <jump line="27" column="30" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
-      <jump line="6" column="7" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
-      <jump line="56" column="13" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
-      <jump line="24" column="29" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/app.js" />
-      <jump line="43" column="6" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
-      <jump line="24" column="70" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.ts" />
-      <jump line="7" column="59" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-routing.module.ts" />
-      <jump line="14" column="3" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app-routing.module.ts" />
-      <jump line="7" column="27" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.ts" />
       <jump line="23" column="116" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/material.module.ts" />
       <jump line="1" column="21" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.html" />
       <jump line="3" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.html" />
@@ -553,52 +573,95 @@
       <jump line="35" column="7" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="34" column="9" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="50" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
+      <jump line="9" column="13" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="24" column="29" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="19" column="25" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="1" column="12" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item.ts" />
+      <jump line="31" column="38" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="26" column="45" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="27" column="75" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="23" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
+      <jump line="18" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
+      <jump line="19" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
+      <jump line="25" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="7" column="31" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="11" column="45" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="10" column="16" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="18" column="33" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="17" column="66" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="25" column="63" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="2" column="70" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.html" />
+      <jump line="27" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" />
+      <jump line="10" column="4" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.service.ts" />
+      <jump line="15" column="46" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="13" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.service.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="22" column="36" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
+      <jump line="61" column="32" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
+      <jump line="74" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
+      <jump line="2" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.html" />
+      <jump line="14" column="4" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.ts" />
+      <jump line="3" column="56" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.html" />
+      <jump line="35" column="20" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" />
+      <jump line="36" column="3" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" />
+      <jump line="7" column="31" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings-dialog.component.ts" />
+      <jump line="41" column="62" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" />
+      <jump line="16" column="20" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.ts" />
+      <jump line="21" column="35" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-routing.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dit</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>dit</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhZGROdXRyaWVudCgpOiB2b2lkIHsKICAgIGxldCBudXRyaWVudCA9IG5ldyBOdXRyaWVudCgpOwogICAgbnV0cmllbnQubmFtZSA9IHRoaXMuZm9ybS5nZXQoJ25hbWUnKS52YWx1ZTsKICAgIG51dHJpZW50LmRhaWx5VmFsdWUgPSB0aGlzLmZvcm0uZ2V0KCdkYWlseVZhbHVlJykudmFsdWU7CiAgICBudXRyaWVudC51bml0ID0gdGhpcy5mb3JtLmdldCgndW5pdCcpLnZhbHVlOwogICAgdGhpcy5udXRyaWVudFNlcnZpY2UuYWRkTnV0cmllbnQobnV0cmllbnQpCiAgICAgIC5zdWJzY3JpYmUoKCkgPT4gdGhpcy5yb3V0ZXIubmF2aWdhdGUoWycvbnV0cmllbnRzJ10pKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMubnV0cmllbnQkID0gdGhpcy5yb3V0ZS5wYXJhbU1hcC5waXBlKHN3aXRjaE1hcCgocGFyYW1zOiBQYXJhbU1hcCkgPT4gdGhpcy5udXRyaWVudFNlcnZpY2UuZ2V0TnV0cmllbnQocGFyYW1zLmdldCgnaWQnKSkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBudXRyaWVudCA9IG5ldyBOdXRyaWVudCgpOwo=</text>
+        <text encoding="base64">CiAgZ2V0TnV0cmllbnQoKTogdm9pZCB7CiAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>f'l~f,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0TnV0cmllbnQoKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyaWFibGUoKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMubnV0cmllbnQkID0gdGhpcy5yb3V0ZS5wYXJhbU1hcC5waXBlKHN3aXRjaE1hcCgocGFyYW1zOiBQYXJhbU1hcCkgPT4gdGhpcy5udXRyaWVudFNlcnZpY2UuZ2V0TnV0cmllbnQocGFyYW1zLmdldCgnaWQnKSkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gbWF0LXJhaXNlZC1idXR0b24+U2F2ZTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICBudXRyaWVudDogTnV0cmllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8YSBtYXQtcmFpc2VkLWJ1dHRvbiByb3V0ZXJMaW5rPSIiPjwvYT4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PHA+CiAgbnV0cmllbnQtZm9ybSB3b3JrcyEKPC9wPgo=</text>
+      <register name="6" type="4">
+        <text>, {
+      height: '400px',
+      width: '600px',
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGYgPSA7Cg==</text>
+        <text encoding="base64">ICA8YnV0dG9uIG1hdC1idXR0b24gdHlwZT0iYnV0dG9uIj5TZXR0aW5nczwvYnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFZhcmlhYmxlQXN0Cg==</text>
+        <text encoding="base64">Lm1hdC1mb3JtLWZpZWxkLWFwcGVhcmFuY2UtZmlsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
