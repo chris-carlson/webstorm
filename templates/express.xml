@@ -1,11 +1,11 @@
 <templateSet group="express">
-  <template name="sch" value="const mongoose = require('mongoose');&#10;const Schema = mongoose.Schema;&#10;&#10;const $NAME$Schema = new Schema({&#10;  $END$ &#10;});&#10;&#10;module.exports = mongoose.model('$NAME$', $NAME$Schema);" description="schema definition" toReformat="false" toShortenFQNames="true">
+  <template name="sch" value="const mongoose = require('mongoose');&#10;const Schema = mongoose.Schema;&#10;&#10;const $NAME$Schema = new Schema({&#10;    $END$ &#10;});&#10;&#10;module.exports = mongoose.model('$NAME$', $NAME$Schema);" description="schema definition" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="datar" value="$NAME$: {&#10;  type: $TYPE$,&#10;  required: true&#10;}" description="required schema data" toReformat="false" toShortenFQNames="true">
+  <template name="datar" value="$NAME$: {&#10;    type: $TYPE$,&#10;    required: true&#10;}" description="required schema data" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -16,7 +16,7 @@
       <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
-  <template name="datau" value="$NAME$: {&#10;  type: $TYPE$,&#10;  required: true,&#10;  unique: true&#10;}" description="unique schema data" toReformat="false" toShortenFQNames="true">
+  <template name="datau" value="$NAME$: {&#10;    type: $TYPE$,&#10;    required: true,&#10;    unique: true&#10;}" description="unique schema data" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -27,7 +27,7 @@
       <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
-  <template name="data" value="$NAME$: {&#10;  type: $TYPE$&#10;}" description="schema data" toReformat="false" toShortenFQNames="true">
+  <template name="data" value="$NAME$: {&#10;    type: $TYPE$&#10;}" description="schema data" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -38,7 +38,7 @@
       <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
-  <template name="schu" value="const mongoose = require('mongoose');&#10;const uniqueValidator = require('mongoose-unique-validator');&#10;const Schema = mongoose.Schema;&#10;&#10;const $NAME$Schema = new Schema({&#10;  $END$ &#10;});&#10;&#10;$NAME$Schema.plugin(uniqueValidator);&#10;module.exports = mongoose.model('$NAME$', $NAME$Schema);" description="unique schema definition" toReformat="false" toShortenFQNames="true">
+  <template name="schu" value="const mongoose = require('mongoose');&#10;const uniqueValidator = require('mongoose-unique-validator');&#10;const Schema = mongoose.Schema;&#10;&#10;const $NAME$Schema = new Schema({&#10;    $END$ &#10;});&#10;&#10;$NAME$Schema.plugin(uniqueValidator);&#10;module.exports = mongoose.model('$NAME$', $NAME$Schema);" description="unique schema definition" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_CLASS" value="true" />

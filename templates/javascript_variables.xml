@@ -1,5 +1,5 @@
 <templateSet group="javascript_variables">
-  <template name="var" value="$NAME$ = $VALUE$;" description="variable assignment" toReformat="false" toShortenFQNames="true">
+  <template name="vara" value="$NAME$ = $VALUE$;" description="variable assignment" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -22,7 +22,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="let" value="let $NAME$ = $VALUE$;" description="let statement" toReformat="false" toShortenFQNames="true">
+  <template name="vari" value="let $NAME$ = $VALUE$;" description="variable initialization" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -53,13 +53,6 @@
       <option name="JSX_HTML" value="false" />
       <option name="JS_CLASS" value="false" />
       <option name="TypeScript" value="true" />
-    </context>
-  </template>
-  <template name="varn" value="$NAME$: $VALUE$;" description="instance variable" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TS_CLASS" value="true" />
     </context>
   </template>
 </templateSet>

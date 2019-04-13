@@ -1,5 +1,5 @@
 <templateSet group="typescript_functions">
-  <template name="fun" value="$NAME$($PARAMS$): $TYPE$ {&#10;    $END$&#10;}" description="function definition" toReformat="false" toShortenFQNames="true">
+  <template name="fun" value="$NAME$($PARAMS$): $TYPE$ {&#10;    $END$&#10;}" description="function definition" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
@@ -13,7 +13,7 @@
       <option name="JS_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="anonm" value="($VAR$) =&gt; {&#10;    $END$&#10;}" description="multi-line anonymous function" toReformat="false" toShortenFQNames="true">
+  <template name="anonm" value="($VAR$) =&gt; {&#10;    $END$&#10;}" description="multi-line anonymous function" toReformat="true" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_EXPRESSION" value="true" />
