@@ -52,4 +52,11 @@
       <option name="TS_CLASS" value="true" />
     </context>
   </template>
+  <template name="dial" value="let dialog: MatDialogRef&lt;$COMPONENT$&gt; = this.dialog.open($COMPONENT$);&#10;dialog.afterClosed()&#10;    .subscribe(($PARAMS$) =&gt; {&#10;        $END$&#10;    });" description="dialog creation" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
