@@ -376,12 +376,12 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" timestamp="1555723488546">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="81" column="27" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" timestamp="1555786541128">
+        <mark key="'" line="70" column="2" />
+        <mark key="[" line="68" column="28" />
+        <mark key="]" line="68" column="31" />
+        <mark key="." line="68" column="31" />
+        <mark key="^" line="68" column="31" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings-dialog.component.html" timestamp="1555461347679">
         <mark key="'" line="5" column="49" />
@@ -509,7 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="75" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
       <jump line="23" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" />
       <jump line="18" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
       <jump line="19" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
@@ -609,13 +608,14 @@
       <jump line="80" column="24" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
       <jump line="81" column="27" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
       <jump line="79" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
+      <jump line="70" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGZvbzogT2JzZXJ2YWJsZTxUPiA9IG9mKHJlc3VsdCBhcyBUKTsKICAgICAgY29uc29sZS5sb2coZm9vKTsKICAgICAgY29uc29sZS5sb2codHlwZW9mIGZvbyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Nutrient</text>
       </register>
       <register name="-" type="4">
-        <text>of(result as T)</text>
+        <text>Nutrient</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
