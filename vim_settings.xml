@@ -125,8 +125,12 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" timestamp="1555792122207">
-        <mark key="'" line="57" column="26" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" timestamp="1555795180321">
+        <mark key="'" line="61" column="26" />
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="41" />
+        <mark key="^" line="44" column="41" />
+        <mark key="." line="44" column="41" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient.ts" timestamp="1509127240815">
         <mark key="'" line="15" column="0" />
@@ -188,12 +192,12 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" timestamp="1555792132874">
-        <mark key="'" line="8" column="31" />
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" timestamp="1555795221314">
+        <mark key="'" line="13" column="71" />
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="71" />
+        <mark key="." line="13" column="71" />
+        <mark key="^" line="13" column="71" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-form/ingredient-form.component.html" timestamp="1509818217565">
         <mark key="'" line="21" column="14" />
@@ -311,12 +315,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" timestamp="1555186037172">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="18" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" timestamp="1555795048276">
+        <mark key="'" line="19" column="18" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="25" column="18" />
-        <mark key="." line="25" column="18" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.ts" timestamp="1538246152530">
         <mark key="'" line="27" column="0" />
@@ -405,12 +409,12 @@
         <mark key="^" line="15" column="104" />
         <mark key="." line="15" column="104" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/styles.sass" timestamp="1555462439240">
-        <mark key="'" line="11" column="14" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/styles.sass" timestamp="1555794534345">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.spec.ts" timestamp="1538244067729">
         <mark key="'" line="2" column="46" />
@@ -426,12 +430,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" timestamp="1554772043924">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="1" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" timestamp="1555795235480">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-routing.module.ts" timestamp="1509820131281">
         <mark key="'" line="17" column="31" />
@@ -507,13 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="46" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
-      <jump line="13" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.service.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
-      <jump line="22" column="36" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" />
-      <jump line="61" column="32" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
-      <jump line="2" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.html" />
-      <jump line="3" column="56" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.html" />
       <jump line="35" column="20" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" />
       <jump line="36" column="3" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" />
       <jump line="7" column="31" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings-dialog.component.ts" />
@@ -586,7 +583,6 @@
       <jump line="60" column="23" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
       <jump line="91" column="20" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="72" column="4" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
-      <jump line="23" column="41" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
       <jump line="24" column="38" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
       <jump line="53" column="26" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="20" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.service.ts" />
@@ -606,56 +602,64 @@
       <jump line="27" column="27" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings-dialog.component.ts" />
       <jump line="5" column="65" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings-dialog.component.html" />
       <jump line="14" column="44" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.ts" />
-      <jump line="8" column="31" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
+      <jump line="23" column="95" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
+      <jump line="8" column="63" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
+      <jump line="9" column="32" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
+      <jump line="10" column="49" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/styles.sass" />
+      <jump line="12" column="105" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
+      <jump line="19" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
+      <jump line="13" column="71" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
+      <jump line="12" column="11" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>form.get('name')</text>
+        <text>unique</text>
       </register>
       <register name="-" type="4">
-        <text>form.get('name')</text>
+        <text>unique</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnNldHRpbmdzLnNob3VsZEZhaWwpIHsKICAgICAgcmV0dXJuIG9mKGZhbHNlKQogICAgICAgIC5waXBlKGRlbGF5KHRoaXMuZ2V0RGVsYXlUaW1lKCkpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHVuaXF1ZTogdHJ1ZQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>, {
-      width: '500px',
-      height: '300px'
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBWYWxpZGF0b3JzLnBhdHRlcm4oL1xkKy8pCg==</text>
       </register>
       <register name="q" type="4">
         <text>9j^2f(l&quot;_di(P</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPG1hdC1zcGlubmVyICpuZ0lmPSJzYXZpbmciIGRpYW1ldGVyPSI0OCI+PC9tYXQtc3Bpbm5lcj4K</text>
+        <text encoding="base64">ICAgICAgZGFpbHlWYWx1ZTogMCwK</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnIgKm5nSWY9Im5hbWUudG91Y2hlZCAmJiBuYW1lLmludmFsaWQiLz4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBzdGF0aWMgKCk6ICB7CiAgICAKICB9KCk6ICB7</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cm1hdC1lcnJvcgogIG1hcmdpbi1ib3R0b206IDEwcHgK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcmVhZG9ubHkgQVBJOiBzdHJpbmcgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaSc7Cg==</text>
+      <register name="5" type="4">
+        <text>, {
+      width: '500px',
+      height: '300px'
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSXRlbSB9IGZyb20gJy4uL3NoYXJlZC9pdGVtJzsKCg==</text>
+        <text encoding="base64">ICAgICAgPG1hdC1zcGlubmVyICpuZ0lmPSJzYXZpbmciIGRpYW1ldGVyPSI0OCI+PC9tYXQtc3Bpbm5lcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zaG91bGRNb2NrKSB7CiAgICAgIHRoaXMuc2hvdWxkRGVsYXkgPSBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">CiAgICAKICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBzdGF0aWMgKCk6ICB7CiAgICAKICB9KCk6ICB7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgcmVhZG9ubHkgQVBJOiBzdHJpbmcgPSAnaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
