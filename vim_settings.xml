@@ -6,53 +6,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/.gitignore" timestamp="1537618486883">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/table-sorting-example/table-sorting-example.component.ts" timestamp="1538234963187">
-        <mark key="'" line="29" column="46" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.ts" timestamp="1554683237994">
         <mark key="'" line="7" column="27" />
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/page-not-found/page-not-found.component.html" timestamp="1538237955537">
-        <mark key="'" line="3" column="71" />
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="71" />
-        <mark key="." line="3" column="71" />
-        <mark key="^" line="3" column="71" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.html" timestamp="1556068695943">
-        <mark key="'" line="13" column="29" />
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="11" column="47" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.spec.ts" timestamp="1538243865590">
-        <mark key="'" line="2" column="68" />
-        <mark key="[" line="2" column="68" />
-        <mark key="]" line="2" column="68" />
-        <mark key="." line="2" column="68" />
-        <mark key="^" line="2" column="67" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read/file-read.js" timestamp="1537617712195">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.html" timestamp="1556138382505">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings.component.ts" timestamp="1555188715553">
         <mark key="'" line="22" column="36" />
@@ -61,13 +26,6 @@
         <mark key="." line="22" column="36" />
         <mark key="^" line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.html" timestamp="1538238143590">
-        <mark key="'" line="1" column="14" />
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item.service.ts" timestamp="1556067170983">
         <mark key="'" line="72" column="65" />
         <mark key="[" line="26" column="0" />
@@ -75,32 +33,11 @@
         <mark key="." line="72" column="65" />
         <mark key="^" line="72" column="65" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item.ts" timestamp="1555789997818">
-        <mark key="'" line="4" column="12" />
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.module.ts" timestamp="1538245828677">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="65" />
-        <mark key="." line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item.module.ts" timestamp="1556065608603">
         <mark key="'" line="32" column="25" />
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="18" />
         <mark key="." line="23" column="18" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/games.component.html" timestamp="1538235744504">
-        <mark key="'" line="6" column="47" />
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="47" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/theme.sass" timestamp="1554576758626">
         <mark key="[" line="17" column="0" />
@@ -113,13 +50,6 @@
         <mark key="]" line="57" column="3" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/file-read.js" timestamp="1537647768278">
-        <mark key="'" line="5" column="70" />
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.html" timestamp="1555796407722">
         <mark key="'" line="6" column="77" />
         <mark key="[" line="6" column="64" />
@@ -127,19 +57,11 @@
         <mark key="^" line="3" column="70" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/error.ts" timestamp="1510012317205">
-        <mark key="'" line="23" column="2" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/angular.json" timestamp="1554063691212">
-        <mark key="'" line="19" column="31" />
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item-field/item-field.component.ts" timestamp="1556138336920">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" timestamp="1556068732720">
         <mark key="'" line="28" column="64" />
@@ -147,13 +69,6 @@
         <mark key="]" line="28" column="64" />
         <mark key="." line="28" column="64" />
         <mark key="^" line="28" column="64" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/package.json" timestamp="1554064369247">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" timestamp="1556068200750">
         <mark key="'" line="8" column="2" />
@@ -169,45 +84,10 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/shared/error/error-list.ts" timestamp="1511911171572">
-        <mark key="'" line="12" column="10" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-        <mark key="^" line="8" column="28" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/page-not-found/page-not-found.component.ts" timestamp="1554683907723">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app-routing.module.ts" timestamp="1538245889426">
-        <mark key="'" line="28" column="34" />
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-        <mark key="^" line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/shared/error/error-message-builder.ts" timestamp="1510012711682">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/app.js" timestamp="1555453616807">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/index.html" timestamp="1554685055150">
-        <mark key="'" line="11" column="26" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item-service-state.ts" timestamp="1555981509935">
         <mark key="'" line="11" column="2" />
@@ -216,54 +96,12 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/nutrient-amount.ts" timestamp="1509124414123">
-        <mark key="'" line="2" column="26" />
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/app.component.ts" timestamp="1538246075476">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="54" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" timestamp="1555795048276">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="25" column="18" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.ts" timestamp="1538246152530">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="38" />
-        <mark key="." line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item-detail/item-detail.component.html" timestamp="1555168022175">
         <mark key="'" line="2" column="19" />
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-form/ingredient-form-add/ingredient-form-add.component.ts" timestamp="1509820657337">
-        <mark key="'" line="7" column="54" />
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="14" />
-        <mark key="." line="24" column="58" />
-        <mark key="^" line="23" column="221" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-detail/collection-detail.component.ts" timestamp="1538245813054">
-        <mark key="'" line="34" column="66" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="2" />
-        <mark key="^" line="38" column="2" />
-        <mark key="." line="38" column="2" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/mock-service.ts" timestamp="1555895225116">
         <mark key="'" line="33" column="25" />
@@ -284,47 +122,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.html" timestamp="1538238170387">
-        <mark key="'" line="4" column="117" />
-        <mark key="[" line="4" column="101" />
-        <mark key="]" line="4" column="117" />
-        <mark key="^" line="4" column="117" />
-        <mark key="." line="4" column="117" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-detail/collection-detail.component.html" timestamp="1538238121021">
-        <mark key="'" line="3" column="39" />
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection.service.spec.ts" timestamp="1538244067729">
-        <mark key="'" line="2" column="46" />
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.model.js" timestamp="1555795235480">
         <mark key="'" line="12" column="11" />
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/weight.pipe.ts" timestamp="1537731906742">
-        <mark key="'" line="5" column="25" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/server/package.json" timestamp="1537622258502">
-        <mark key="'" line="6" column="34" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="34" />
-        <mark key="^" line="6" column="34" />
-        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.ts" timestamp="1556068108150">
         <mark key="'" line="11" column="13" />
@@ -333,34 +136,6 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/page-not-found/page-not-found.component.html" timestamp="1554683954323">
-        <mark key="'" line="3" column="47" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="47" />
-        <mark key="." line="3" column="47" />
-        <mark key="^" line="3" column="47" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/material.module.ts" timestamp="1537619892280">
-        <mark key="'" line="1" column="625" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="61" column="620" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app-theme.scss" timestamp="1537623932686">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-nutrient/ingredient-nutrient-routing.module.ts" timestamp="1508527271798">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="14" column="3" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-detail/item-delete-dialog/item-delete-dialog.component.html" timestamp="1556067629889">
         <mark key="'" line="1" column="66" />
         <mark key="[" line="1" column="63" />
@@ -368,25 +143,11 @@
         <mark key="." line="1" column="66" />
         <mark key="^" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient.ts" timestamp="1509127240815">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.component.sass" timestamp="1555187938581">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/games.service.ts" timestamp="1538244050055">
-        <mark key="'" line="13" column="97" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="13" column="97" />
-        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item-detail/item-detail.component.ts" timestamp="1555168190820">
         <mark key="'" line="9" column="20" />
@@ -394,20 +155,6 @@
         <mark key="]" line="9" column="20" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/material.module.ts" timestamp="1554683879186">
-        <mark key="'" line="23" column="116" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="23" column="117" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="3" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-form/ingredient-form.component.html" timestamp="1509818217565">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-detail/item-detail.component.ts" timestamp="1556068217052">
         <mark key="[" line="11" column="2" />
@@ -421,13 +168,6 @@
         <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app-routing.module.ts" timestamp="1554684251502">
-        <mark key="'" line="27" column="1" />
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="27" column="1" />
-        <mark key="^" line="27" column="1" />
-        <mark key="." line="27" column="1" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.html" timestamp="1556068119118">
         <mark key="'" line="8" column="30" />
@@ -443,33 +183,12 @@
         <mark key="^" line="2" column="44" />
         <mark key="." line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-list/ingredient-list.component.html" timestamp="1512764010752">
-        <mark key="'" line="4" column="46" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="46" />
-        <mark key="^" line="4" column="46" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" timestamp="1556106228746">
         <mark key="'" line="17" column="22" />
         <mark key="[" line="5" column="62" />
         <mark key="]" line="5" column="66" />
         <mark key="." line="5" column="66" />
         <mark key="^" line="5" column="66" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/collection-list.component.ts" timestamp="1538236912101">
-        <mark key="'" line="10" column="45" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-detail/ingredient-detail.component.ts" timestamp="1513194051434">
-        <mark key="'" line="25" column="30" />
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/url.ts" timestamp="1555159505098">
         <mark key="'" line="1" column="58" />
@@ -522,26 +241,12 @@
         <mark key="." line="12" column="91" />
         <mark key="^" line="12" column="91" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/error-parser.spec.ts" timestamp="1555896269689">
-        <mark key="'" line="0" column="37" />
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/settings/settings-dialog.component.html" timestamp="1555796789075">
         <mark key="'" line="6" column="65" />
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="58" />
         <mark key="^" line="3" column="92" />
         <mark key="." line="19" column="44" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-detail/ingredient-detail.component.html" timestamp="1513194099031">
-        <mark key="'" line="3" column="41" />
-        <mark key="[" line="15" column="101" />
-        <mark key="]" line="15" column="104" />
-        <mark key="^" line="15" column="104" />
-        <mark key="." line="15" column="104" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/styles.sass" timestamp="1555794534345">
         <mark key="'" line="12" column="0" />
@@ -550,40 +255,12 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/rating.pipe.ts" timestamp="1537731806796">
-        <mark key="'" line="4" column="33" />
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-routing.module.ts" timestamp="1509820131281">
-        <mark key="'" line="17" column="31" />
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="25" column="41" />
-        <mark key="." line="25" column="41" />
-        <mark key="^" line="25" column="41" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" timestamp="1556067665887">
         <mark key="'" line="40" column="28" />
         <mark key="[" line="39" column="27" />
         <mark key="]" line="40" column="28" />
         <mark key="." line="40" column="28" />
         <mark key="^" line="40" column="28" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/ingredient/ingredient-form/ingredient-form.component.ts" timestamp="1510012176827">
-        <mark key="'" line="33" column="29" />
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="87" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="25" column="1" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/foo/client/src/main.ts" timestamp="1513192238168">
-        <mark key="'" line="3" column="16" />
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="16" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-routing.module.ts" timestamp="1555368030998">
         <mark key="'" line="15" column="2" />
@@ -592,25 +269,11 @@
         <mark key="^" line="21" column="35" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/collection/collection-list/collection-list.component.ts" timestamp="1538245457093">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
-      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.ts" timestamp="1555790127860">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.html" timestamp="1554773034758">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -709,11 +372,11 @@
       <jump line="106" column="14" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="11" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="3" column="62" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.html" />
-      <jump line="13" column="29" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.html" />
       <jump line="28" column="64" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
       <jump line="23" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="5" column="36" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
       <jump line="0" column="4" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
+      <jump line="13" column="16" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
