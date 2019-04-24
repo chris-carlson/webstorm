@@ -450,11 +450,12 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" timestamp="1556068188146">
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" timestamp="1556106228746">
         <mark key="'" line="17" column="22" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="66" />
+        <mark key="^" line="5" column="66" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/board-games/client/src/app/games/collection-list.component.ts" timestamp="1538236912101">
         <mark key="'" line="10" column="45" />
@@ -514,8 +515,8 @@
       <file name="/Dummy.txt" timestamp="1556067980840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" timestamp="1556068378498">
-        <mark key="'" line="96" column="9" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" timestamp="1556106563058">
+        <mark key="'" line="0" column="4" />
         <mark key="[" line="12" column="82" />
         <mark key="]" line="12" column="91" />
         <mark key="." line="12" column="91" />
@@ -613,8 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="63" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
-      <jump line="10" column="49" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
       <jump line="12" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/styles.sass" />
       <jump line="12" column="105" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
       <jump line="19" column="18" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
@@ -713,16 +712,18 @@
       <jump line="13" column="29" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.html" />
       <jump line="28" column="64" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.html" />
       <jump line="23" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
+      <jump line="5" column="36" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
+      <jump line="0" column="4" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBuZ09uSW5pdCgpIHsKICAgIHRoaXMuc3RhdGUgPSBuZXcgSXRlbVNlcnZpY2VTdGF0ZSgpOwogICAgdGhpcy5mb3JtID0gOwogICAgdGhpcy5nZXROdXRyaWVudCgpOwogIH0KCiAgZ2V0TnV0cmllbnQoKTogdm9pZCB7CiAgICBsZXQgaWQ6IHN0cmluZyA9IHRoaXMucm91dGUuc25hcHNob3QucGFyYW1NYXAuZ2V0KCdpZCcpOwogICAgaWYgKGlkKSB7CiAgICAgIHRoaXMuc3RhdGUuc3RhdHVzLmxvYWRpbmcgPSB0cnVlOwogICAgICB0aGlzLnN0YXRlLnJlc2V0RXJyb3JzKCk7CiAgICAgIHRoaXMubnV0cmllbnRTZXJ2aWNlLmdldEl0ZW0oaWQpCiAgICAgICAgLnN1YnNjcmliZSgobnV0cmllbnQ6IE51dHJpZW50KSA9PiB7CiAgICAgICAgICB0aGlzLnN0YXRlLnN0YXR1cy5sb2FkaW5nID0gZmFsc2U7CiAgICAgICAgICB0aGlzLm51dHJpZW50ID0gbnV0cmllbnQ7CiAgICAgICAgICBpZiAodGhpcy5udXRyaWVudCkgewogICAgICAgICAgICB0aGlzLmZvcm0ucGF0Y2hWYWx1ZSh7CiAgICAgICAgICAgICAgJ25hbWUnOiB0aGlzLm51dHJpZW50Lm5hbWUsCiAgICAgICAgICAgICAgJ2RhaWx5VmFsdWUnOiB0aGlzLm51dHJpZW50LmRhaWx5VmFsdWUsCiAgICAgICAgICAgICAgJ3VuaXQnOiB0aGlzLm51dHJpZW50LnVuaXQKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgfSwgKCkgPT4gewogICAgICAgICAgdGhpcy5zdGF0ZS5zdGF0dXMubG9hZGluZyA9IGZhbHNlOwogICAgICAgICAgdGhpcy5zdGF0ZS5lcnJvcnMubG9hZCA9IHRydWU7CiAgICAgICAgfSk7CiAgICB9CiAgfQoKICBzYXZlKCk6IHZvaWQgewogICAgaWYgKHRoaXMubnV0cmllbnQpIHsKICAgICAgdGhpcy51cGRhdGVOdXRyaWVudCgpOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5hZGROdXRyaWVudCgpOwogICAgfQogIH0KCiAgcHJpdmF0ZSB1cGRhdGVOdXRyaWVudCgpOiB2b2lkIHsKICAgIHRoaXMuc3RhdGUuc3RhdHVzLnNhdmluZyA9IHRydWU7CiAgICB0aGlzLnN0YXRlLnJlc2V0RXJyb3JzKCk7CiAgICB0aGlzLm51dHJpZW50U2VydmljZS51cGRhdGVJdGVtKHRoaXMubnV0cmllbnQpCiAgICAgIC5zdWJzY3JpYmUoKCkgPT4gewogICAgICAgIHRoaXMuc3RhdGUuc3RhdHVzLnNhdmluZyA9IGZhbHNlOwogICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFtgL251dHJpZW50cy8ke3RoaXMubnV0cmllbnQuX2lkfWBdKTsKICAgICAgfSwgKGVycm9yOiBhbnkpID0+IHsKICAgICAgICB0aGlzLmhhbmRsZVNhdmVFcnJvcihlcnJvcik7CiAgICAgIH0pOwogIH0KCiAgcHJpdmF0ZSBhZGROdXRyaWVudCgpOiB2b2lkIHsKICAgIHRoaXMuc3RhdGUuc3RhdHVzLnNhdmluZyA9IHRydWU7CiAgICB0aGlzLnN0YXRlLnJlc2V0RXJyb3JzKCk7CiAgICB0aGlzLm51dHJpZW50U2VydmljZS5hZGRJdGVtKG51dHJpZW50KQogICAgICAuc3Vic2NyaWJlKCgpID0+IHsKICAgICAgICB0aGlzLnN0YXRlLnN0YXR1cy5zYXZpbmcgPSBmYWxzZTsKICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9udXRyaWVudHMnXSk7CiAgICAgIH0sIChlcnJvcjogYW55KSA9PiB7CiAgICAgICAgdGhpcy5oYW5kbGVTYXZlRXJyb3IoZXJyb3IpOwogICAgICB9KTsKICB9CgogIHByaXZhdGUgaGFuZGxlU2F2ZUVycm9yKGVycm9yOiBhbnkpOiB2b2lkIHsKICAgIHRoaXMuc3RhdGUuc3RhdHVzLnNhdmluZyA9IGZhbHNlOwogICAgdGhpcy5zdGF0ZS5lcnJvcnMuc2F2ZSA9IEVycm9yUGFyc2VyLmlzU2VydmVyRG93bihlcnJvcik7CiAgICB0aGlzLnN0YXRlLmVycm9ycy5kdXBsaWNhdGUgPSBFcnJvclBhcnNlci5pc0R1cGxpY2F0ZShlcnJvcik7CiAgICB0aGlzLm5hbWUuc2V0RXJyb3JzKHsKICAgICAgZHVwbGljYXRlOiB0aGlzLnN0YXRlLmVycm9ycy5kdXBsaWNhdGUKICAgIH0pOwogIH0KCiAgY3JlYXRlRm9ybSgpOiBGb3JtR3JvdXAgewogICAgcmV0dXJuIHRoaXMuZm9ybUJ1aWxkZXIuZ3JvdXAoewogICAgICBuYW1lOiBbCiAgICAgICAgJycsCiAgICAgICAgVmFsaWRhdG9ycy5yZXF1aXJlZAogICAgICBdLAogICAgICBkYWlseVZhbHVlOiBbCiAgICAgICAgMCwKICAgICAgICBWYWxpZGF0b3JzLnJlcXVpcmVkCiAgICAgIF0sCiAgICAgIHVuaXQ6IFsnJ10KICAgIH0pOwogIH0KCiAgcGF0Y2hGb3JtKGl0ZW06IE51dHJpZW50KTogdm9pZCB7CiAgfQoKICBwYXRjaEl0ZW0obnV0cmllbnQ6IE51dHJpZW50KTogdm9pZCB7CiAgICBudXRyaWVudC5uYW1lID0gdGhpcy5mb3JtLmdldCgnbmFtZScpLnZhbHVlOwogICAgbnV0cmllbnQuZGFpbHlWYWx1ZSA9IHRoaXMuZm9ybS5nZXQoJ2RhaWx5VmFsdWUnKS52YWx1ZTsKICAgIHRoaXMubnV0cmllbnQudW5pdCA9IHRoaXMuZm9ybS5nZXQoJ3VuaXQnKS52YWx1ZTsKICB9CgogIGNyZWF0ZUl0ZW0oKTogTnV0cmllbnQgewogICAgbGV0IG51dHJpZW50ID0gbmV3IE51dHJpZW50KCk7CiAgICBudXRyaWVudC5uYW1lID0gdGhpcy5mb3JtLmdldCgnbmFtZScpLnZhbHVlOwogICAgbnV0cmllbnQuZGFpbHlWYWx1ZSA9IHRoaXMuZm9ybS5nZXQoJ2RhaWx5VmFsdWUnKS52YWx1ZTsKICAgIG51dHJpZW50LnVuaXQgPSB0aGlzLmZvcm0uZ2V0KCd1bml0JykudmFsdWU7CiAgICByZXR1cm4gbnV0cmllbnQ7CiAgfQoKICBnZXRJZChudXRyaWVudDogTnV0cmllbnQpOiBzdHJpbmcgewogICAgcmV0dXJuIG51dHJpZW50Ll9pZDsKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>detail</text>
       </register>
       <register name="f" type="2">
         <text encoding="base64">ICBjcmVhdGVGb3JtKCk6IEZvcm1Hcm91cCB7CiAgICByZXR1cm4gdGhpcy5mb3JtQnVpbGRlci5ncm91cCh7CiAgICAgIG5hbWU6IFsKICAgICAgICAnJywKICAgICAgICBWYWxpZGF0b3JzLnJlcXVpcmVkCiAgICAgIF0sCiAgICAgIGRhaWx5VmFsdWU6IFsKICAgICAgICAwLAogICAgICAgIFZhbGlkYXRvcnMucmVxdWlyZWQKICAgICAgXSwKICAgICAgdW5pdDogWycnXQogICAgfSk7CiAgfQoKICBwYXRjaEZvcm0obnV0cmllbnQ6IE51dHJpZW50KTogdm9pZCB7CiAgICB0aGlzLmZvcm0ucGF0Y2hWYWx1ZSh7CiAgICAgICduYW1lJzogbnV0cmllbnQubmFtZSwKICAgICAgJ2RhaWx5VmFsdWUnOiBudXRyaWVudC5kYWlseVZhbHVlLAogICAgICAndW5pdCc6IG51dHJpZW50LnVuaXQKICAgIH0pOwogIH0KCiAgcGF0Y2hJdGVtKG51dHJpZW50OiBOdXRyaWVudCk6IHZvaWQgewogICAgbnV0cmllbnQubmFtZSA9IHRoaXMuZm9ybS5nZXQoJ25hbWUnKS52YWx1ZTsKICAgIG51dHJpZW50LmRhaWx5VmFsdWUgPSB0aGlzLmZvcm0uZ2V0KCdkYWlseVZhbHVlJykudmFsdWU7CiAgICBudXRyaWVudC51bml0ID0gdGhpcy5mb3JtLmdldCgndW5pdCcpLnZhbHVlOwogIH0KCiAgY3JlYXRlSXRlbSgpOiBOdXRyaWVudCB7CiAgICBsZXQgbnV0cmllbnQgPSBuZXcgTnV0cmllbnQoKTsKICAgIG51dHJpZW50Lm5hbWUgPSB0aGlzLmZvcm0uZ2V0KCduYW1lJykudmFsdWU7CiAgICBudXRyaWVudC5kYWlseVZhbHVlID0gdGhpcy5mb3JtLmdldCgnZGFpbHlWYWx1ZScpLnZhbHVlOwogICAgbnV0cmllbnQudW5pdCA9IHRoaXMuZm9ybS5nZXQoJ3VuaXQnKS52YWx1ZTsKICAgIHJldHVybiBudXRyaWVudDsKICB9CgogIGdldElkKG51dHJpZW50OiBOdXRyaWVudCk6IHN0cmluZyB7CiAgICByZXR1cm4gbnV0cmllbnQuX2lkOwogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>nutrient._id</text>
+        <text>detail</text>
       </register>
       <register name="/" type="4">
         <text>errors</text>
