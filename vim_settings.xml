@@ -133,12 +133,12 @@
         <mark key="." line="11" column="64" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" timestamp="1556479304824">
-        <mark key="'" line="24" column="29" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" timestamp="1556482958898">
+        <mark key="'" line="8" column="32" />
         <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="37" column="3" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/template/item-list-template/item-list-template.component.ts" timestamp="1556386033274">
         <mark key="[" line="2" column="0" />
@@ -313,12 +313,11 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" timestamp="1556384355344">
-        <mark key="'" line="28" column="14" />
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" timestamp="1556483425237">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-routing.module.ts" timestamp="1555368030998">
         <mark key="'" line="15" column="2" />
@@ -341,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="11" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.ts" />
       <jump line="11" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/shared/item-service-state.ts" />
       <jump line="37" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.ts" />
       <jump line="9" column="32" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.html" />
@@ -358,7 +356,6 @@
       <jump line="13" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" />
       <jump line="37" column="12" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" />
       <jump line="9" column="14" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" />
-      <jump line="8" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" />
       <jump line="19" column="22" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
       <jump line="8" column="15" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-detail/item-delete-dialog/item-delete-dialog.component.ts" />
       <jump line="14" column="75" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-detail/item-delete-dialog/item-delete-dialog.component.ts" />
@@ -441,10 +438,12 @@
       <jump line="13" column="3" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.service.ts" />
       <jump line="3" column="27" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
       <jump line="4" column="24" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/mock-nutrient-data.ts" />
+      <jump line="8" column="32" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-list/item-list.component.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/app.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Nutrient</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEl0ZW1Nb2R1bGUsCg==</text>
       </register>
       <register name="f" type="2">
         <text encoding="base64">ICBjcmVhdGVGb3JtKCk6IEZvcm1Hcm91cCB7CiAgICByZXR1cm4gdGhpcy5mb3JtQnVpbGRlci5ncm91cCh7CiAgICAgIG5hbWU6IFsKICAgICAgICAnJywKICAgICAgICBWYWxpZGF0b3JzLnJlcXVpcmVkCiAgICAgIF0sCiAgICAgIGRhaWx5VmFsdWU6IFsKICAgICAgICAwLAogICAgICAgIFZhbGlkYXRvcnMucmVxdWlyZWQKICAgICAgXSwKICAgICAgdW5pdDogWycnXQogICAgfSk7CiAgfQoKICBwYXRjaEZvcm0obnV0cmllbnQ6IE51dHJpZW50KTogdm9pZCB7CiAgICB0aGlzLmZvcm0ucGF0Y2hWYWx1ZSh7CiAgICAgICduYW1lJzogbnV0cmllbnQubmFtZSwKICAgICAgJ2RhaWx5VmFsdWUnOiBudXRyaWVudC5kYWlseVZhbHVlLAogICAgICAndW5pdCc6IG51dHJpZW50LnVuaXQKICAgIH0pOwogIH0KCiAgcGF0Y2hJdGVtKG51dHJpZW50OiBOdXRyaWVudCk6IHZvaWQgewogICAgbnV0cmllbnQubmFtZSA9IHRoaXMuZm9ybS5nZXQoJ25hbWUnKS52YWx1ZTsKICAgIG51dHJpZW50LmRhaWx5VmFsdWUgPSB0aGlzLmZvcm0uZ2V0KCdkYWlseVZhbHVlJykudmFsdWU7CiAgICBudXRyaWVudC51bml0ID0gdGhpcy5mb3JtLmdldCgndW5pdCcpLnZhbHVlOwogIH0KCiAgY3JlYXRlSXRlbSgpOiBOdXRyaWVudCB7CiAgICBsZXQgbnV0cmllbnQgPSBuZXcgTnV0cmllbnQoKTsKICAgIG51dHJpZW50Lm5hbWUgPSB0aGlzLmZvcm0uZ2V0KCduYW1lJykudmFsdWU7CiAgICBudXRyaWVudC5kYWlseVZhbHVlID0gdGhpcy5mb3JtLmdldCgnZGFpbHlWYWx1ZScpLnZhbHVlOwogICAgbnV0cmllbnQudW5pdCA9IHRoaXMuZm9ybS5nZXQoJ3VuaXQnKS52YWx1ZTsKICAgIHJldHVybiBudXRyaWVudDsKICB9CgogIGdldElkKG51dHJpZW50OiBOdXRyaWVudCk6IHN0cmluZyB7CiAgICByZXR1cm4gbnV0cmllbnQuX2lkOwogIH0K</text>
@@ -464,7 +463,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Nutrient</text>
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
       <register name="n" type="2">
         <text encoding="base64">ICAgIG5ldyBOdXRyaWVudCgpCg==</text>
@@ -476,7 +475,7 @@
         <text>id: string</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbJ2ZvbyddOwo=</text>
+        <text encoding="base64">ICAgIEl0ZW1Nb2R1bGUsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -544,33 +543,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuZ2V0TW9ja0RhdGEoKSkpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbJ2ZvbyddOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuZ2V0TW9ja0RhdGEoKSkpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMubnV0cmllbnRzLnNvcnQoKG51dHJpZW50MTogTnV0cmllbnQsIG51dHJpZW50MjogTnV0cmllbnQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIG51dHJpZW50MS5uYW1lLmxvY2FsZUNvbXBhcmUobnV0cmllbnQyLm5hbWUpOwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXRJZCgpOiB2b2lkIHsK</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBOdXRyaWVudCgpCg==</text>
+        <text encoding="base64">ICBzZXRJZCgpOiB2b2lkIHsK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      _id: '4',
-      name: 'Nutrient 4',
-      dailyValue: 30,
-      unit: ''
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5ldyBOdXRyaWVudCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -580,18 +574,18 @@
       </register>
       <register name="8" type="4">
         <text>{
-      _id: '3',
-      name: 'Nutrient 3',
-      dailyValue: 0,
-      unit: 'g'
+      _id: '4',
+      name: 'Nutrient 4',
+      dailyValue: 30,
+      unit: ''
     }</text>
       </register>
       <register name="9" type="4">
         <text>{
-      _id: '2',
-      name: 'Nutrient 2',
-      dailyValue: 20,
-      unit: 'mg'
+      _id: '3',
+      name: 'Nutrient 3',
+      dailyValue: 0,
+      unit: 'g'
     }</text>
       </register>
       <register name=":" type="4">
