@@ -172,6 +172,11 @@
         <mark key="]" line="4" column="48" />
         <mark key="." line="4" column="48" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/foo/src/app/app.component.ts" timestamp="1556484655725">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/.gitignore" timestamp="1554066640628">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="3" />
@@ -298,6 +303,11 @@
         <mark key="]" line="19" column="58" />
         <mark key="^" line="3" column="92" />
         <mark key="." line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/foo/src/app/app.component.html" timestamp="1556484653007">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/styles.sass" timestamp="1555794534345">
         <mark key="'" line="12" column="0" />
@@ -443,7 +453,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEl0ZW1Nb2R1bGUsCg==</text>
+        <text encoding="base64">ICB0aXRsZSA9ICdmb28nOwo=</text>
       </register>
       <register name="f" type="2">
         <text encoding="base64">ICBjcmVhdGVGb3JtKCk6IEZvcm1Hcm91cCB7CiAgICByZXR1cm4gdGhpcy5mb3JtQnVpbGRlci5ncm91cCh7CiAgICAgIG5hbWU6IFsKICAgICAgICAnJywKICAgICAgICBWYWxpZGF0b3JzLnJlcXVpcmVkCiAgICAgIF0sCiAgICAgIGRhaWx5VmFsdWU6IFsKICAgICAgICAwLAogICAgICAgIFZhbGlkYXRvcnMucmVxdWlyZWQKICAgICAgXSwKICAgICAgdW5pdDogWycnXQogICAgfSk7CiAgfQoKICBwYXRjaEZvcm0obnV0cmllbnQ6IE51dHJpZW50KTogdm9pZCB7CiAgICB0aGlzLmZvcm0ucGF0Y2hWYWx1ZSh7CiAgICAgICduYW1lJzogbnV0cmllbnQubmFtZSwKICAgICAgJ2RhaWx5VmFsdWUnOiBudXRyaWVudC5kYWlseVZhbHVlLAogICAgICAndW5pdCc6IG51dHJpZW50LnVuaXQKICAgIH0pOwogIH0KCiAgcGF0Y2hJdGVtKG51dHJpZW50OiBOdXRyaWVudCk6IHZvaWQgewogICAgbnV0cmllbnQubmFtZSA9IHRoaXMuZm9ybS5nZXQoJ25hbWUnKS52YWx1ZTsKICAgIG51dHJpZW50LmRhaWx5VmFsdWUgPSB0aGlzLmZvcm0uZ2V0KCdkYWlseVZhbHVlJykudmFsdWU7CiAgICBudXRyaWVudC51bml0ID0gdGhpcy5mb3JtLmdldCgndW5pdCcpLnZhbHVlOwogIH0KCiAgY3JlYXRlSXRlbSgpOiBOdXRyaWVudCB7CiAgICBsZXQgbnV0cmllbnQgPSBuZXcgTnV0cmllbnQoKTsKICAgIG51dHJpZW50Lm5hbWUgPSB0aGlzLmZvcm0uZ2V0KCduYW1lJykudmFsdWU7CiAgICBudXRyaWVudC5kYWlseVZhbHVlID0gdGhpcy5mb3JtLmdldCgnZGFpbHlWYWx1ZScpLnZhbHVlOwogICAgbnV0cmllbnQudW5pdCA9IHRoaXMuZm9ybS5nZXQoJ3VuaXQnKS52YWx1ZTsKICAgIHJldHVybiBudXRyaWVudDsKICB9CgogIGdldElkKG51dHJpZW50OiBOdXRyaWVudCk6IHN0cmluZyB7CiAgICByZXR1cm4gbnV0cmllbnQuX2lkOwogIH0K</text>
@@ -475,7 +485,7 @@
         <text>id: string</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEl0ZW1Nb2R1bGUsCg==</text>
+        <text encoding="base64">ICB0aXRsZSA9ICdmb28nOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -543,28 +553,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbJ2ZvbyddOwo=</text>
+        <text encoding="base64">PCEtLVRoZSBjb250ZW50IGJlbG93IGlzIG9ubHkgYSBwbGFjZWhvbGRlciBhbmQgY2FuIGJlIHJlcGxhY2VkLi0tPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlciI+CiAgPGgxPgogICAgV2VsY29tZSB0byB7eyB0aXRsZSB9fSEKICA8L2gxPgogIDxpbWcgd2lkdGg9IjMwMCIgYWx0PSJBbmd1bGFyIExvZ28iIHNyYz0iZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhacFpYZENiM2c5SWpBZ01DQXlOVEFnTWpVd0lqNEtJQ0FnSUR4d1lYUm9JR1pwYkd3OUlpTkVSREF3TXpFaUlHUTlJazB4TWpVZ016Qk1NekV1T1NBMk15NHliREUwTGpJZ01USXpMakZNTVRJMUlESXpNR3czT0M0NUxUUXpMamNnTVRRdU1pMHhNak11TVhvaUlDOCtDaUFnSUNBOGNHRjBhQ0JtYVd4c1BTSWpRek13TURKR0lpQmtQU0pOTVRJMUlETXdkakl5TGpJdExqRldNak13YkRjNExqa3RORE11TnlBeE5DNHlMVEV5TXk0eFRERXlOU0F6TUhvaUlDOCtDaUFnSUNBOGNHRjBhQ0FnWm1sc2JEMGlJMFpHUmtaR1JpSWdaRDBpVFRFeU5TQTFNaTR4VERZMkxqZ2dNVGd5TGpab01qRXVOMnd4TVM0M0xUSTVMakpvTkRrdU5Hd3hNUzQzSURJNUxqSklNVGd6VERFeU5TQTFNaTR4ZW0weE55QTRNeTR6YUMwek5Hd3hOeTAwTUM0NUlERTNJRFF3TGpsNklpQXZQZ29nSUR3dmMzWm5QZz09Ij4KPC9kaXY+CjxoMj5IZXJlIGFyZSBzb21lIGxpbmtzIHRvIGhlbHAgeW91IHN0YXJ0OiA8L2gyPgo8dWw+CiAgPGxpPgogICAgPGgyPjxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIiBocmVmPSJodHRwczovL2FuZ3VsYXIuaW8vdHV0b3JpYWwiPlRvdXIgb2YgSGVyb2VzPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vYW5ndWxhci5pby9jbGkiPkNMSSBEb2N1bWVudGF0aW9uPC9hPjwvaDI+CiAgPC9saT4KICA8bGk+CiAgICA8aDI+PGEgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiIGhyZWY9Imh0dHBzOi8vYmxvZy5hbmd1bGFyLmlvLyI+QW5ndWxhciBibG9nPC9hPjwvaDI+CiAgPC9saT4KPC91bD4KCg==</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuZ2V0TW9ja0RhdGEoKSkpOwo=</text>
+        <text encoding="base64">ICAgIEl0ZW1Nb2R1bGUsCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMubnV0cmllbnRzLnNvcnQoKG51dHJpZW50MTogTnV0cmllbnQsIG51dHJpZW50MjogTnV0cmllbnQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIG51dHJpZW50MS5uYW1lLmxvY2FsZUNvbXBhcmUobnV0cmllbnQyLm5hbWUpOwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbJ2ZvbyddOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuZ2V0TW9ja0RhdGEoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZXRJZCgpOiB2b2lkIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBOdXRyaWVudCgpCg==</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -572,21 +582,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>{
-      _id: '4',
-      name: 'Nutrient 4',
-      dailyValue: 30,
-      unit: ''
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzZXRJZCgpOiB2b2lkIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-      _id: '3',
-      name: 'Nutrient 3',
-      dailyValue: 0,
-      unit: 'g'
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG5ldyBOdXRyaWVudCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
