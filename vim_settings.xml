@@ -13,8 +13,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" timestamp="1556499831789">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" timestamp="1556500868963">
+        <mark key="'" line="38" column="31" />
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.ts" timestamp="1556388267300">
         <mark key="[" line="4" column="38" />
@@ -302,6 +306,13 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="5" column="52" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" timestamp="1556501251704">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="62" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="62" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/foo/src/app/parent/parent.component.ts" timestamp="1556485860458">
         <mark key="'" line="8" column="7" />
         <mark key="[" line="8" column="7" />
@@ -393,16 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
-      <jump line="51" column="2" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
-      <jump line="87" column="59" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
-      <jump line="25" column="34" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.ts" />
-      <jump line="52" column="35" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.ts" />
-      <jump line="104" column="32" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
-      <jump line="18" column="29" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.html" />
-      <jump line="8" column="30" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-list/nutrient-list.component.html" />
-      <jump line="20" column="19" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-detail/nutrient-detail.component.ts" />
       <jump line="17" column="22" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient.module.ts" />
       <jump line="104" column="9" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
       <jump line="25" column="16" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
@@ -493,10 +494,20 @@
       <jump line="73" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="74" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/nutrient/nutrient-form/nutrient-form.component.ts" />
       <jump line="96" column="20" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/item/item-form/item-form.component.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" />
+      <jump line="65" column="8" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" />
+      <jump line="30" column="35" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" />
+      <jump line="54" column="8" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" />
+      <jump line="0" column="24" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" />
+      <jump line="38" column="31" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" />
+      <jump line="64" column="23" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
+      <jump line="22" column="63" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnNldEVycm9ycygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="f" type="2">
         <text encoding="base64">ICBjcmVhdGVGb3JtKCk6IEZvcm1Hcm91cCB7CiAgICByZXR1cm4gdGhpcy5mb3JtQnVpbGRlci5ncm91cCh7CiAgICAgIG5hbWU6IFsKICAgICAgICAnJywKICAgICAgICBWYWxpZGF0b3JzLnJlcXVpcmVkCiAgICAgIF0sCiAgICAgIGRhaWx5VmFsdWU6IFsKICAgICAgICAwLAogICAgICAgIFZhbGlkYXRvcnMucmVxdWlyZWQKICAgICAgXSwKICAgICAgdW5pdDogWycnXQogICAgfSk7CiAgfQoKICBwYXRjaEZvcm0obnV0cmllbnQ6IE51dHJpZW50KTogdm9pZCB7CiAgICB0aGlzLmZvcm0ucGF0Y2hWYWx1ZSh7CiAgICAgICduYW1lJzogbnV0cmllbnQubmFtZSwKICAgICAgJ2RhaWx5VmFsdWUnOiBudXRyaWVudC5kYWlseVZhbHVlLAogICAgICAndW5pdCc6IG51dHJpZW50LnVuaXQKICAgIH0pOwogIH0KCiAgcGF0Y2hJdGVtKG51dHJpZW50OiBOdXRyaWVudCk6IHZvaWQgewogICAgbnV0cmllbnQubmFtZSA9IHRoaXMuZm9ybS5nZXQoJ25hbWUnKS52YWx1ZTsKICAgIG51dHJpZW50LmRhaWx5VmFsdWUgPSB0aGlzLmZvcm0uZ2V0KCdkYWlseVZhbHVlJykudmFsdWU7CiAgICBudXRyaWVudC51bml0ID0gdGhpcy5mb3JtLmdldCgndW5pdCcpLnZhbHVlOwogIH0KCiAgY3JlYXRlSXRlbSgpOiBOdXRyaWVudCB7CiAgICBsZXQgbnV0cmllbnQgPSBuZXcgTnV0cmllbnQoKTsKICAgIG51dHJpZW50Lm5hbWUgPSB0aGlzLmZvcm0uZ2V0KCduYW1lJykudmFsdWU7CiAgICBudXRyaWVudC5kYWlseVZhbHVlID0gdGhpcy5mb3JtLmdldCgnZGFpbHlWYWx1ZScpLnZhbHVlOwogICAgbnV0cmllbnQudW5pdCA9IHRoaXMuZm9ybS5nZXQoJ3VuaXQnKS52YWx1ZTsKICAgIHJldHVybiBudXRyaWVudDsKICB9CgogIGdldElkKG51dHJpZW50OiBOdXRyaWVudCk6IHN0cmluZyB7CiAgICByZXR1cm4gbnV0cmllbnQuX2lkOwogIH0K</text>
@@ -516,7 +527,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIA==</text>
+        <text>s</text>
       </register>
       <register name="n" type="2">
         <text encoding="base64">ICAgIG5ldyBOdXRyaWVudCgpCg==</text>
@@ -524,11 +535,11 @@
       <register name="/" type="4">
         <text>errors</text>
       </register>
-      <register name="0" type="4">
-        <text>private itemService: ItemService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbnV0cmllbnQubmFtZSA9IHJlcXVlc3QuYm9keS5uYW1lOwogICAgICBudXRyaWVudC5kYWlseVZhbHVlID0gcmVxdWVzdC5ib2R5LmRhaWx5VmFsdWU7CiAgICAgIG51dHJpZW50LnVuaXQgPSByZXF1ZXN0LmJvZHkudW5pdDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnNldEVycm9ycygpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">cm91dGVyLnJvdXRlKG51dHJpZW50c1JvdXRlKQogIC5nZXQoKHJlcXVlc3QsIHJlc3BvbnNlKSA9PiB7CiAgICBOdXRyaWVudC5maW5kKChlcnJvciwgbnV0cmllbnRzKSA9PiB7CiAgICAgIGlmIChlcnJvcikgewogICAgICAgIHJldHVybiByZXNwb25zZS5zdGF0dXMoNDA0KS5qc29uKGVycm9yKTsKICAgICAgfQogICAgICByZXNwb25zZS5qc29uKG51dHJpZW50cyk7CiAgICB9KTsKICB9KQogIC5wb3N0KChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogICAgbGV0IG51dHJpZW50ID0gbmV3IE51dHJpZW50KCk7CiAgICBudXRyaWVudC5uYW1lID0gcmVxdWVzdC5ib2R5Lm5hbWU7CiAgICBudXRyaWVudC5kYWlseVZhbHVlID0gcmVxdWVzdC5ib2R5LmRhaWx5VmFsdWU7CiAgICBudXRyaWVudC51bml0ID0gcmVxdWVzdC5ib2R5LnVuaXQ7CiAgICBudXRyaWVudC5zYXZlKGVycm9yID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlLnN0YXR1cyg0MjIpLmpzb24oZXJyb3IpOwogICAgICB9CiAgICAgIHJlc3BvbnNlLmpzb24oKTsKICAgIH0pOwogIH0pOwoKcm91dGVyLnJvdXRlKG51dHJpZW50c1JvdXRlICsgJy86bnV0cmllbnRfaWQnKQogIC5nZXQoKHJlcXVlc3QsIHJlc3BvbnNlKSA9PiB7CiAgICBOdXRyaWVudC5maW5kQnlJZChyZXF1ZXN0LnBhcmFtcy5udXRyaWVudF9pZCwgKGVycm9yLCBudXRyaWVudCkgPT4gewogICAgICBpZiAoZXJyb3IpIHsKICAgICAgICByZXR1cm4gcmVzcG9uc2Uuc3RhdHVzKDQwNCkuanNvbihlcnJvcik7CiAgICAgIH0KICAgICAgcmVzcG9uc2UuanNvbihudXRyaWVudCk7CiAgICB9KTsKICB9KQogIC5wdXQoKHJlcXVlc3QsIHJlc3BvbnNlKSA9PiB7CiAgICBOdXRyaWVudC5maW5kQnlJZChyZXF1ZXN0LnBhcmFtcy5udXRyaWVudF9pZCwgKGVycm9yLCBudXRyaWVudCkgPT4gewogICAgICBpZiAoZXJyb3IpIHsKICAgICAgICByZXR1cm4gcmVzcG9uc2Uuc3RhdHVzKDQwNCkuanNvbihlcnJvcik7CiAgICAgIH0KICAgICAgbnV0cmllbnQubmFtZSA9IHJlcXVlc3QuYm9keS5uYW1lOwogICAgICBudXRyaWVudC5kYWlseVZhbHVlID0gcmVxdWVzdC5ib2R5LmRhaWx5VmFsdWU7CiAgICAgIG51dHJpZW50LnVuaXQgPSByZXF1ZXN0LmJvZHkudW5pdDsKICAgICAgbnV0cmllbnQuc2F2ZShlcnJvciA9PiB7CiAgICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgICByZXR1cm4gcmVzcG9uc2Uuc3RhdHVzKDQyMikuanNvbihlcnJvcik7CiAgICAgICAgfQogICAgICAgIHJlc3BvbnNlLmpzb24oKTsKICAgICAgfSk7CiAgICB9KTsKICB9KQogIC5kZWxldGUoKHJlcXVlc3QsIHJlc3BvbnNlKSA9PiB7CiAgICBOdXRyaWVudC5kZWxldGVPbmUoewogICAgICBfaWQ6IHJlcXVlc3QucGFyYW1zLm51dHJpZW50X2lkCiAgICB9LCBlcnJvciA9PiB7CiAgICAgIGlmIChlcnJvcikgewogICAgICAgIHJldHVybiByZXNwb25zZS5zdGF0dXMoNDA0KS5qc29uKGVycm9yKTsKICAgICAgfQogICAgICByZXNwb25zZS5qc29uKCk7CiAgICB9KTsKICB9KTs=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -596,28 +607,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMubmFtZS5zZXRFcnJvcnMoewogICAgLy8gICBkdXBsaWNhdGU6IHRoaXMuc3RhdGUuZXJyb3JzLmR1cGxpY2F0ZQogICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3Qgcm91dGVyID0gZXhwcmVzcy5Sb3V0ZXIoKTsKCg==</text>
       </register>
       <register name="r" type="4">
         <text>'retrieve'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN1cGVyLnVwZGF0ZUl0ZW0oaXRlbSk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMubnV0cmllbnRzLnNvcnQoKG51dHJpZW50MTogTnV0cmllbnQsIG51dHJpZW50MjogTnV0cmllbnQpID0+IHsKICAgICAgICAgICAgcmV0dXJuIG51dHJpZW50MS5uYW1lLmxvY2FsZUNvbXBhcmUobnV0cmllbnQyLm5hbWUpOwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBhcmVudENvbXBvbmVudCwK</text>
+        <text encoding="base64">ICAgIHN1cGVyLmNyZWF0ZUl0ZW0oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJzsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnZXRUaXRsZSgpOiBzdHJpbmcgewogICAgcmV0dXJuICcnOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGl0ZW0ubmFtZSA9IHJlcXVlc3QuYm9keS5uYW1lOwogICAgICAgICAgaXRlbS5kYWlseVZhbHVlID0gcmVxdWVzdC5ib2R5LmRhaWx5VmFsdWU7CiAgICAgICAgICBpdGVtLnVuaXQgPSByZXF1ZXN0LmJvZHkudW5pdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHA+CiAgcGFyZW50IHdvcmtzIQo8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLm5hbWUgPSByZXF1ZXN0LmJvZHkubmFtZTsKICAgICAgICBpdGVtLmRhaWx5VmFsdWUgPSByZXF1ZXN0LmJvZHkuZGFpbHlWYWx1ZTsKICAgICAgICBpdGVtLnVuaXQgPSByZXF1ZXN0LmJvZHkudW5pdDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -626,10 +637,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHA+CiAgY2hpbGQgd29ya3MhCjwvcD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFtdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
