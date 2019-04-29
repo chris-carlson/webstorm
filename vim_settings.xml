@@ -13,6 +13,9 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/item.routes.js" timestamp="1556499831789">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/client/src/app/home/home.component.ts" timestamp="1556388267300">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="38" />
@@ -299,7 +302,6 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/JetBrains/WebStorm/nutrition/server/src/nutrient/nutrient.routes.js" timestamp="1556486565565" />
       <file name="$USER_HOME$/JetBrains/WebStorm/foo/src/app/parent/parent.component.ts" timestamp="1556485860458">
         <mark key="'" line="8" column="7" />
         <mark key="[" line="8" column="7" />
