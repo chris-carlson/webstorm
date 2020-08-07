@@ -839,6 +839,82 @@
           <option name="key" value="pic+" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="div" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="span" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h1" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h2" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h3" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h4" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h5" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h6" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="ol" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="ul" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="title" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="p" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="head" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="header" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="b" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="i" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="table" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="td" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="li" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Zen XSL" />
           <option name="key" value="tmatch" />
         </TemplateKey>
@@ -3644,10 +3720,6 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
-          <option name="key" value="wid" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Zen CSS" />
           <option name="key" value="wfsm" />
         </TemplateKey>
         <TemplateKey>
@@ -3665,6 +3737,226 @@
         <TemplateKey>
           <option name="groupName" value="Zen CSS" />
           <option name="key" value="wfsm:n" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="fori" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="cmd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="cmd success check" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="tar compress" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="tar decompress" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="mkdir" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git branch create" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git push" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git commit" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="curl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="rm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="find" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="heredoc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="xargs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system info linux" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system info mac" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system kernel info" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array create" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array all" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array at index" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array length" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array delete" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array delete at" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array set element" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array add" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array iteration" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="JavaScript Testing" />
@@ -3696,7 +3988,19 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
+          <option name="key" value="forof" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="forin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
           <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="itera" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
@@ -3733,6 +4037,30 @@
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
           <option name="key" value="exportitems" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="log" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="error" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="warn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="info" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="trace" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="JavaScript" />
+          <option name="key" value="assert" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="JavaScript" />
@@ -4021,6 +4349,146 @@
         <TemplateKey>
           <option name="groupName" value="React" />
           <option name="key" value="scu" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vstore-import" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vaction" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vgetter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vmutation" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vstore" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vdec" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vinc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vcomputed" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vc-direct" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vdata" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vfilter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vimport-export" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vimport" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vimport-gsap" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vimport-lib" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vimport-c" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vmethod" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vmixin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vprops" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vanimhook-js" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vmixin-use" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vwatcher" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vclass" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vclass-obj" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vel-props" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vsrc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vclass-obj-mult" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vstyle" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vstyle-obj" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vanim" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vfor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vmodel" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vmodel-num" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="von" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
+          <option name="key" value="vbase" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="AngularJS " />
@@ -4373,162 +4841,6 @@
         <TemplateKey>
           <option name="groupName" value="HTTP Request" />
           <option name="key" value="fptr" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vstore-import" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vaction" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vgetter" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vmutation" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vstore" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vdec" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vinc" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vcomputed" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vc-direct" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vdata" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vfilter" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vimport-export" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vimport" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vimport-gsap" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vimport-lib" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vimport-c" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vmethod" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vmixin" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vprops" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vanimhook-js" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vmixin-use" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vwatcher" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vclass" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vclass-obj" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vel-props" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vsrc" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vclass-obj-mult" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vstyle" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vstyle-obj" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vanim" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vfor" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vmodel" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vmodel-num" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="von" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Vue" />
-          <option name="key" value="vbase" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="iter" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="itar" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="sout" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="soutm" />
         </TemplateKey>
       </list>
     </option>
