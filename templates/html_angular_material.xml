@@ -102,7 +102,8 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matr" value="&lt;mat-radio-group&gt;&#10;    &lt;mat-radio-button value=&quot;$VALUE$&quot;&gt;$NAME$&lt;/mat-radio-button&gt;&#10;&lt;/mat-radio-group&gt;" description="radio buttons" toReformat="true" toShortenFQNames="true">
+  <template name="matr" value="&lt;mat-radio-group formControlName=&quot;$ELEMENT$&quot;&gt;&#10;    &lt;mat-radio-button value=&quot;$VALUE$&quot;&gt;$NAME$&lt;/mat-radio-button&gt;&#10;&lt;/mat-radio-group&gt;" description="radio buttons" toReformat="true" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

@@ -29,7 +29,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="const" value="const $NAME$ = $VALUE$;" description="const statement" toReformat="false" toShortenFQNames="true">
+  <template name="const" value="const $NAME$ = $VALUE$;" description="const statement" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
