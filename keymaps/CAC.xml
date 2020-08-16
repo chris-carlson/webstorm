@@ -1,0 +1,8 @@
+<keymap version="1" name="CAC" parent="$default">
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+</keymap>
