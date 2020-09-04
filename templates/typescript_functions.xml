@@ -13,7 +13,7 @@
       <option name="JS_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="anon" value="($VAR$) =&gt; $END$" description="single-line anonymous function" toReformat="true" toShortenFQNames="true">
+  <template name="anon" value="($VAR$) =&gt; $END$" description="single-line anonymous function" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TS_EXPRESSION" value="true" />
