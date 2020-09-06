@@ -50,7 +50,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matnl" value="&lt;mat-nav-list&gt;&#10;    &lt;a mat-list-item routerLink=&quot;$ROUTE$&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list" toReformat="true" toShortenFQNames="true">
+  <template name="matnl" value="&lt;mat-nav-list&gt;&#10;    &lt;a mat-list-item *ngFor=&quot;let $ITEM$ of $LIST$&quot; [routerLink]=&quot;[$ROUTE$]&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list" toReformat="true" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
