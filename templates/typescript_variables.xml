@@ -37,4 +37,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="varnu" value="$NAME$: $TYPE$ | undefined;" description="undefined instance variable" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
