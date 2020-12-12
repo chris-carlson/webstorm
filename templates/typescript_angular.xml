@@ -1,12 +1,12 @@
 <templateSet group="typescript_angular">
-  <template name="serv" value="private $NAME$: $CLASS$" description="private service parameter" toReformat="false" toShortenFQNames="true">
+  <template name="ser" value="private $NAME$: $CLASS$" description="private service parameter" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="serb" value="public $NAME$: $CLASS$" description="public service parameter" toReformat="false" toShortenFQNames="true">
+  <template name="serp" value="public $NAME$: $CLASS$" description="public service parameter" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
