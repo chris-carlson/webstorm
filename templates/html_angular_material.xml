@@ -28,7 +28,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="mats" value="&lt;mat-form-field&gt;&#10;    &lt;mat-select placeholder=&quot;$TEXT$&quot;&gt;&#10;        &lt;mat-option *ngFor=&quot;let $ITEM$ of $COLLECTION$&quot; [value]=&quot;$VALUE$&quot;&gt;$DISPLAY$&lt;/mat-option&gt;&#10;    &lt;/mat-select&gt;&#10;&lt;/mat-form-field&gt;" description="select" toReformat="true" toShortenFQNames="true">
+  <template name="matse" value="&lt;mat-form-field&gt;&#10;    &lt;mat-select placeholder=&quot;$TEXT$&quot;&gt;&#10;        &lt;mat-option *ngFor=&quot;let $ITEM$ of $COLLECTION$&quot; [value]=&quot;$VALUE$&quot;&gt;$DISPLAY$&lt;/mat-option&gt;&#10;    &lt;/mat-select&gt;&#10;&lt;/mat-form-field&gt;" description="select" toReformat="true" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
@@ -50,7 +50,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matnl" value="&lt;mat-nav-list&gt;&#10;    &lt;a mat-list-item *ngFor=&quot;let $ITEM$ of $LIST$&quot; [routerLink]=&quot;[$ROUTE$]&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list" toReformat="true" toShortenFQNames="true">
+  <template name="matln" value="&lt;mat-nav-list&gt;&#10;    &lt;a mat-list-item *ngFor=&quot;let $ITEM$ of $LIST$&quot; [routerLink]=&quot;[$ROUTE$]&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list" toReformat="true" toShortenFQNames="true">
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
@@ -83,13 +83,6 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matnlp" value="&lt;mat-nav-list&gt;&#10;    &lt;a mat-list-item [routerLink]=&quot;[$ROUTE$]&quot;&gt;$TEXT$&lt;/a&gt;&#10;&lt;/mat-nav-list&gt;" description="nav list with parameters" toReformat="true" toShortenFQNames="true">
-    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
   <template name="matblp" value="&lt;a mat-$TYPE$button [routerLink]=&quot;[$ROUTE$]&quot;&gt;$NAME$&lt;/a&gt;" description="link button with parameters" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="&quot;raised-&quot;" alwaysStopAt="true" />
     <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
@@ -98,7 +91,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matl" value="&lt;mat-list&gt;&#10;&#9;&lt;mat-list-item&gt;$CONTENT$&lt;/mat-list-item&gt;&#10;&lt;/mat-list&gt;" description="list" toReformat="true" toShortenFQNames="true">
+  <template name="matl" value="&lt;mat-list&gt;&#10;&#9;&lt;mat-list-item *ngFor=&quot;let $ITEM$ of $LIST$&quot;&gt;$CONTENT$&lt;/mat-list-item&gt;&#10;&lt;/mat-list&gt;" description="list" toReformat="true" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -114,6 +109,13 @@
   </template>
   <template name="matst" value="&lt;mat-slide-toggle&gt;$TEXT$&lt;/mat-slide-toggle&gt;" description="slide toggle" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="matsp" value="&lt;mat-spinner *ngIf=&quot;$CONDITION$&quot; [diameter]=&quot;$SIZE$&quot;&gt;&lt;/mat-spinner&gt;" description="spinner" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SIZE" expression="" defaultValue="&quot;48&quot;" alwaysStopAt="false" />
     <context>
       <option name="HTML" value="true" />
     </context>
