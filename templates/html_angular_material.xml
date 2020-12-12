@@ -39,7 +39,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matto" value="&lt;mat-toolbar color=&quot;primary&quot;&gt;$END$&lt;/mat-toolbar&gt;" description="toolbar" toReformat="false" toShortenFQNames="true">
+  <template name="matto" value="&lt;mat-toolbar color=&quot;primary&quot;&gt;$END$&lt;/mat-toolbar&gt;" description="toolbar" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
@@ -67,7 +67,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matd" value="&lt;h2 mat-dialog-title&gt;$TITLE$&lt;/h2&gt;&#10;&lt;mat-dialog-content&gt;&#10;  $END$&#10;&lt;/mat-dialog-content&gt;&#10;&lt;mat-dialog-actions&gt;&#10;  &lt;button mat-raised-button mat-dialog-close&gt;Close&lt;/button&gt;&#10;&lt;/mat-dialog-actions&gt;" description="dialog" toReformat="false" toShortenFQNames="true">
+  <template name="matd" value="&lt;h2 mat-dialog-title&gt;$TITLE$&lt;/h2&gt;&#10;&lt;mat-dialog-content&gt;&#10;  $END$&#10;&lt;/mat-dialog-content&gt;&#10;&lt;mat-dialog-actions&gt;&#10;  &lt;button mat-raised-button mat-dialog-close&gt;Close&lt;/button&gt;&#10;&lt;/mat-dialog-actions&gt;" description="dialog" toReformat="true" toShortenFQNames="true">
     <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -108,13 +108,13 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matst" value="&lt;mat-slide-toggle&gt;$TEXT$&lt;/mat-slide-toggle&gt;" description="slide toggle" toReformat="false" toShortenFQNames="true">
+  <template name="matst" value="&lt;mat-slide-toggle&gt;$TEXT$&lt;/mat-slide-toggle&gt;" description="slide toggle" toReformat="true" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="matsp" value="&lt;mat-spinner *ngIf=&quot;$CONDITION$&quot; [diameter]=&quot;48&quot;&gt;&lt;/mat-spinner&gt;" description="spinner" toReformat="false" toShortenFQNames="true">
+  <template name="matsp" value="&lt;mat-spinner *ngIf=&quot;$CONDITION$&quot; [diameter]=&quot;48&quot;&gt;&lt;/mat-spinner&gt;" description="spinner" toReformat="true" toShortenFQNames="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />

@@ -7,7 +7,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="anonm" value="($VAR$) =&gt; {&#10;    $END$&#10;}" description="multi-line anonymous function" toReformat="true" toShortenFQNames="true">
+  <template name="anonm" value="($VAR$) =&gt; {&#10;  $END$&#10;}" description="multi-line anonymous function" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_EXPRESSION" value="true" />
