@@ -19,4 +19,12 @@
       <option name="TS_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="funp" value="private $NAME$($PARAMS$): $TYPE$ {&#10;    $END$&#10;}" description="private function definition" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
