@@ -1,5 +1,5 @@
 <templateSet group="typescript_karma">
-  <template name="it" value="it('$DESCRIPTION$', () =&gt; {&#10;    $END$&#10;});" description="test definition" toReformat="true" toShortenFQNames="true">
+  <template name="it" value="it('$DESCRIPTION$', () =&gt; {&#10;  $END$&#10;});" description="test definition" toReformat="false" toShortenFQNames="true">
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TS_STATEMENT" value="true" />

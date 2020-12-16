@@ -25,14 +25,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rout" value="{&#10;    path: $PATH$,&#10;    component: $COMPONENT$&#10;}" description="component route definition" toReformat="true" toShortenFQNames="true">
+  <template name="rout" value="{&#10;  path: $PATH$,&#10;  component: $COMPONENT$&#10;}" description="component route definition" toReformat="false" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="routr" value="{&#10;    path: '**',&#10;    redirectTo: '/$PATH$',&#10;    pathMatch: 'full'&#10;}" description="redirect route definition" toReformat="true" toShortenFQNames="true">
+  <template name="routr" value="{&#10;  path: '**',&#10;  redirectTo: '/$PATH$',&#10;  pathMatch: 'full'&#10;}" description="redirect route definition" toReformat="false" toShortenFQNames="true">
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
@@ -52,7 +52,7 @@
       <option name="TS_CLASS" value="true" />
     </context>
   </template>
-  <template name="dial" value="let dialog: MatDialogRef&lt;$COMPONENT$&gt; = this.dialog.open($COMPONENT$);&#10;dialog.afterClosed()&#10;    .subscribe(($PARAMS$) =&gt; {&#10;        $END$&#10;    });" description="dialog creation" toReformat="false" toShortenFQNames="true">
+  <template name="dial" value="let dialog: MatDialogRef&lt;$COMPONENT$&gt; = this.dialog.open($COMPONENT$);&#10;dialog.afterClosed()&#10;  .subscribe(($PARAMS$) =&gt; {&#10;    $END$&#10;  });" description="dialog creation" toReformat="false" toShortenFQNames="true">
     <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

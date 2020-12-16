@@ -1,19 +1,19 @@
 <templateSet group="javascript_functions">
-  <template name="func" value="$NAME$($PARAMS$) {&#10;    $END$&#10;}" description="class function definition" toReformat="true" toShortenFQNames="true">
+  <template name="func" value="$NAME$($PARAMS$) {&#10;  $END$&#10;}" description="class function definition" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="fun" value="function $NAME$($PARAMS$) {&#10;    $END$&#10;}" description="function definition" toReformat="true" toShortenFQNames="true">
+  <template name="fun" value="function $NAME$($PARAMS$) {&#10;  $END$&#10;}" description="function definition" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="anonm" value="$VAR$ =&gt; {&#10;    $END$&#10;}" description="multi-line anonymous function" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="anonm" value="$VAR$ =&gt; {&#10;  $END$&#10;}" description="multi-line anonymous function" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ES6_EXPRESSION" value="true" />

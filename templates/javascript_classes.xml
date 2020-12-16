@@ -1,5 +1,5 @@
 <templateSet group="javascript_classes">
-  <template name="class" value="class $NAME$ {&#10;    $END$&#10;}" description="class definition" toReformat="true" toShortenFQNames="true">
+  <template name="class" value="class $NAME$ {&#10;  $END$&#10;}" description="class definition" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
@@ -20,7 +20,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="con" value="constructor($PARAMS$) {&#10;    $END$&#10;}" description="constructor definition" toReformat="true" toShortenFQNames="true">
+  <template name="con" value="constructor($PARAMS$) {&#10;  $END$&#10;}" description="constructor definition" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
