@@ -1,12 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Heap Dump Analysis" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="ideavim" shouldLog="false" />
-    <notification groupId="Material Theme Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Settings Repository" shouldLog="false" />
-    <notification groupId="System Clipboard" displayType="NONE" shouldLog="false" />
+    <notification groupId="JavaScript Debugger Console URL Starter" displayType="NONE" shouldLog="false" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Vcs Notifications" shouldLog="false" />
   </component>
 </application>
