@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Branch Context group" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="JavaScript Debugger Console URL Starter" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Repository" shouldLog="false" />
