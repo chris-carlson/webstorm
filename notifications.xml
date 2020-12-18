@@ -4,5 +4,6 @@
     <notification groupId="JavaScript Debugger Console URL Starter" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Repository" shouldLog="false" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
   </component>
 </application>
