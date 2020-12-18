@@ -1,13 +1,6 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="CAC" />
   <component name="EditorSettings">
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="enabled" value="false" />
