@@ -1,4 +1,8 @@
 <code_scheme name="CAC" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
+  </HTMLCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="FIELD_PREFIX" value="" />
