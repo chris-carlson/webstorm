@@ -1,8 +1,14 @@
 <keymap version="1" name="CAC" parent="$default">
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
 </keymap>
